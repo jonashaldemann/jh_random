@@ -33,9 +33,9 @@ Curtains - Medium Fabrics hung straight and close to wall:0505002500304040
 Door - Acoustic:
 Door - Solid Timber:1414100608101010
 Door - Wood hollowcore:3030251510100707
+Furnishing - Adult office Furnishing per desk:5050404545607070
 Furnishing - Auditorium Seat occupied:3737486873777474
 Furnishing - Auditorium Seat unoccupied:1313335956616262
-Furnishing - Adult office Furnishing per desk:5050404545607070
 Furnishing - Cloth-upholstered seats:4444607789827070
 Furnishing - Empty plastic or metal chairs:0707001400141414
 Furnishing - Orchestra with instruments on podium:2727536793878080
@@ -50,6 +50,7 @@ Plaster - rough on lath:0202030405040302
 Plaster - Tiles 12% perforated:
 Plasterboard - on battens/18mm airspace/glass wool:3030201505050505
 Plasterboard - on Frame with Airspace:3030120805050505
+Steel :1313090809111111
 Stone - Brickwork standard:0505040204050505
 Stone - Floor:
 Stone - Smooth Marble or Terrazzo slabs:0101010101020202
