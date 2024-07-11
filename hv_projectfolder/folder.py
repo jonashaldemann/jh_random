@@ -1,10 +1,16 @@
 import os
-import platform
-import subprocess
+
 
 fp_projectlist = "/Users/jonashaldemann/Nextcloud2/Büro/000 Admin/Projektliste/Projektliste.txt"
 fp_officefolder = "/Users/jonashaldemann/Nextcloud2/Büro/"
-fp_subfolders = "/Users/jonashaldemann/Documents/Repositories/jh_random/hv_projectfolder/Subfolders.txt"
+
+# Fragt ob es ein Wettbewerb ist oder nicht
+competition = input("Wettbewerb: [y/n]")
+
+if competition == "y":
+    fp_subfolders = "/Users/jonashaldemann/Documents/Repositories/jh_random/hv_projectfolder/subfolders_competition.txt"
+else:
+    fp_subfolders = "/Users/jonashaldemann/Documents/Repositories/jh_random/hv_projectfolder/subfolders_other.txt"
 
 
 # Projektliste lesen, neue Projektnummer
