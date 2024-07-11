@@ -1,7 +1,14 @@
 import os
+import platform
+import subprocess
+
+fp_projectlist = "/Users/jonashaldemann/Nextcloud2/Büro/000 Admin/Projektliste/Projektliste.txt"
+fp_officefolder = "/Users/jonashaldemann/Nextcloud2/Büro/"
+fp_subfolders = "/Users/jonashaldemann/Documents/Repositories/jh_random/hv_projectfolder/Subfolders.txt"
+
 
 # Projektliste lesen, neue Projektnummer
-file_projectlist = open("/Users/jonashaldemann/Nextcloud2/Büro/000 Admin/Projektliste/Projektliste.txt", "r+")
+file_projectlist = open(fp_projectlist, "r+")
 projects = file_projectlist.readlines()
 last_project = projects[-1:][0]
 last_project_number = int(last_project.split(" ")[0])
@@ -12,7 +19,7 @@ pr_number = new_project_number.zfill(3)
 pr_name = input("Projektname:")
 
 # Projektordner definieren
-main_folder = "/Users/jonashaldemann/Nextcloud2/Büro/" + pr_number + " " + pr_name
+main_folder = fp_officefolder + pr_number + " " + pr_name
 
 # Hauptordner kreieren
 try:
@@ -21,7 +28,7 @@ except OSError:
     print("Creation of the directory %s failed" % main_folder)
 
 # Unterordner kreieren
-file_subfolders = open("/Users/jonashaldemann/Documents/Repositories/jh_random/hv_projectfolder/Subfolders.txt", "r")
+file_subfolders = open(fp_subfolders, "r")
 subfolders = file_subfolders.readlines()
 
 for sub_folder in subfolders:
