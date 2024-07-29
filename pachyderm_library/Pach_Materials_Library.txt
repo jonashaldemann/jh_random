@@ -62,6 +62,5 @@ Wood - 12mm Plywood/200mm airgap + 50mm mineral wool:1414101008100808
 Wood - 20mmm spanplatte over 250mm airgap + 50mm mineral wool:1212100807100808
 Wood - Acoustic Timber Wall Panelling:1818344259836860
 Wood - Parquet on Counterfloor:2020151010051010
-Wood - Parquet on counterfloor:2020151010051010
 Wood - Slats:1010367491615035
 Wood - Wooden Floor on joists:1515111007060707
