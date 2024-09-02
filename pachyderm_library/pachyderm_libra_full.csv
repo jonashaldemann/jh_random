@@ -1,0 +1,67 @@
+Material;62.5;125;250;500;1000;2000;4000;8000
+Absorption - Fibreboard (Faserplatte) 12mm on solid backing;5;5;10;15;25;30;30;30
+Absorption - Flexible polyurethane foam 50mm;25;25;50;85;95;90;90;90
+Absorption - Glass Wool 100mm;43;43;86;xx;xx;xx;xx;xx
+Absorption - Glass Wool 25mm;12;12;28;55;71;74;83;83
+Absorption - Glass Wool 50mm;17;17;45;80;89;97;94;94
+Absorption - Hard Fibreboard (Hartfaserplatte) on solid backing  for Pin up;5;5;0;10;0;10;10;10
+Absorption - Melamine based foam 25mm;9;9;22;54;76;88;93;93
+Absorption - Melamine based foam 50mm;18;18;56;96;xx;xx;xx;xx
+Absorption - Mineral Wool Tiles, 180mm Airspace;42;42;72;83;88;89;80;80
+Absorption - Mineral Wool Tiles, Glued to Soffit;6;6;40;75;95;96;83;83
+Absorption - PU Foam 50mm flexible;25;25;50;85;95;90;90;90
+Absorption - Rock Wool 100mm;35;35;95;98;92;90;85;85
+Absorption - Rock Wool 50mm;15;15;60;90;90;90;85;85
+Absorption - Woodwool 25mm unplastered on solid backing;10;10;0;40;0;60;60;60
+Audience - Adults on timber seats 1/m2;16;16;24;56;69;81;78;78
+Audience - Adults on timber seats 2/m2;24;24;40;78;98;96;87;87
+Audience - Adults seated;33;33;40;44;45;45;45;45
+Audience - Adults standing;15;15;38;42;43;45;45;45
+Audience - Areas with audience, orchestra or seats, including narrow aisles;60;60;74;88;96;93;85;85
+Audience - Children 1/m2 seated in chairs;28;28;0;33;0;37;37;37
+Audience - Children 1/m2 standing;12;12;22;37;40;42;37;37
+Carpet - Haircord on Felt underlay;5;5;5;10;20;45;65;65
+Carpet - Medium Pile Carpet 10mm on Sponge Rubber Underlay;50;50;10;30;50;65;70;70
+Carpet - Needlepunch;3;3;5;5;25;35;50;50
+Carpet - Pile Carpet 6mm bonded to closed-cell foam underlay;3;3;9;20;54;70;72;72
+Carpet - Thick Pile Carpet 15mm on Sponge Rubber Underlay;15;15;25;50;60;70;70;70
+Carpet - Thin, over thin felt on Wood Floor;20;20;25;30;30;30;30;30
+Concrete - rough;2;2;3;3;3;4;7;14
+Cork Tiles 25mm on solid backing;5;5;10;20;55;60;55;55
+Curtains - Cotton draped to 75% area 130mm from wall;30;30;45;65;56;59;71;71
+Curtains - hung in folds against solid wall;5;5;10;35;40;50;50;50
+Curtains - Medium Fabrics hung straight and close to wall;5;5;0;25;0;30;40;40
+Door - Acoustic, Steel Frame, Souble Seals, Absorbant in Airspace;35;35;39;44;49;54;57;57
+Door - Solid Timber;14;14;10;6;8;10;10;10
+Door - Wood hollowcore;30;30;25;15;10;10;7;7
+Furnishing - Adult office Furnishing per desk;50;50;40;45;45;60;70;70
+Furnishing - Auditorium Seat occupied;37;37;48;68;73;77;74;74
+Furnishing - Auditorium Seat unoccupied;13;13;33;59;56;61;62;62
+Furnishing - Cloth-upholstered seats;44;44;60;77;89;82;70;70
+Furnishing - Empty plastic or metal chairs;7;7;0;14;0;14;14;14
+Furnishing - Orchestra with instruments on podium;27;27;53;67;93;87;80;80
+Furnishing - Prosenium opening with average stage set;20;20;0;30;0;40;50;50
+Glass - 4mm ;30;30;20;15;5;5;5;5
+Glass - Double glazing;15;15;5;3;3;2;2;2
+Linoleum or Vinyl Stuck to concrete;2;2;2;3;4;4;5;5
+Metal Ceiling 30% Perforated, backed by 30mm Rockwool;12;12;45;87;98;xx;xx;xx
+Plaster - Acoustic Plaster 25mm to solid backing;3;3;15;50;80;85;80;75
+Plaster - Gypsum Tiles 22mm, 17% perforated;45;45;70;80;80;65;45;45
+Plaster - rough on lath;2;2;3;4;5;4;3;2
+Plaster - Tiles 12% perforated, absorbent felt glued to back, 200mm ceiling void;45;45;70;88;52;42;35;35
+Plasterboard - on battens/18mm airspace/glass wool;30;30;20;15;5;5;5;5
+Plasterboard - on Frame with Airspace;30;30;12;8;5;5;5;5
+Steel ;13;13;9;8;9;11;11;11
+Stone - Brickwork standard;5;5;4;2;4;5;5;5
+Stone - Floor, plain or tooled or granolithic finish;2;2;0;2;0;5;5;5
+Stone - Smooth Marble or Terrazzo slabs;1;1;1;1;1;2;2;2
+Tiles - Ceramic smooth Surface;1;1;1;1;2;2;2;2
+Water Surface;1;1;1;1;1;2;2;2
+Wood - 10mm Plywood;32;28;22;17;9;10;11;13
+Wood - 12mm Plywood /150mm airgap;28;28;8;7;7;9;9;9
+Wood - 12mm Plywood/200mm airgap + 50mm mineral wool;14;14;10;10;8;10;8;8
+Wood - 20mmm spanplatte over 250mm airgap + 50mm mineral wool;12;12;10;8;7;10;8;8
+Wood - Acoustic Timber Wall Panelling;18;18;34;42;59;83;68;60
+Wood - Parquet on Counterfloor;20;20;15;10;10;5;10;10
+Wood - Slats;10;10;36;74;91;61;50;35
+Wood - Wooden Floor on joists;15;15;11;10;7;6;7;7

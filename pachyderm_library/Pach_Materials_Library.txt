@@ -1,66 +1,11 @@
-Absorption - Fibreboard (Faserplatte) 12mm on solid backing:0505101525303030
-Absorption - Flexible polyurethane foam 50mm:2525508595909090
-Absorption - Glass Wool 100mm:434386xxxxxxxxxx
-Absorption - Glass Wool 25mm:1212285571748383
-Absorption - Glass Wool 50mm:1717458089979494
-Absorption - Hard Fibreboard (Hartfaserplatte) on solid backing  for Pin up:0505001000101010
-Absorption - Melamine based foam 25mm:0909225476889393
-Absorption - Melamine based foam 50mm:18185696xxxxxxxx
-Absorption - Mineral Wool Tiles:
-Absorption - Mineral Wool Tiles:
-Absorption - PU Foam 50mm flexible:2525508595909090
-Absorption - Rock Wool 100mm:3535959892908585
-Absorption - Rock Wool 50mm:1515609090908585
-Absorption - Woodwool 25mm unplastered on solid backing:1010004000606060
-Audience - Adults on timber seats 1/m2:1616245669817878
-Audience - Adults on timber seats 2/m2:2424407898968787
-Audience - Adults seated:3333404445454545
-Audience - Adults standing:1515384243454545
-Audience - Areas with audience:
-Audience - Children 1/m2 seated in chairs:2828003300373737
-Audience - Children 1/m2 standing:1212223740423737
+Concrete / Stone / Brickwork / Tiles:0202030303040714
+Glass / Steel:1515050303020202
+Plasterboard - on Frame with Airspace:3030120805050505
+Wood - Plywood / Parquet:2020151010051010
+Curtains - close to wall:0505002500304040
 Carpet - Haircord on Felt underlay:0505051020456565
-Carpet - Medium Pile Carpet 10mm on Sponge Rubber Underlay:5050103050657070
-Carpet - Needlepunch:0303050525355050
-Carpet - Pile Carpet 6mm bonded to closed-cell foam underlay:0303092054707272
-Carpet - Thick Pile Carpet 15mm on Sponge Rubber Underlay:1515255060707070
-Carpet - Thin:
-Concrete - rough:0202030303040714
-Cork Tiles 25mm on solid backing:0505102055605555
-Curtains - Cotton draped to 75% area 130mm from wall:3030456556597171
-Curtains - hung in folds against solid wall:0505103540505050
-Curtains - Medium Fabrics hung straight and close to wall:0505002500304040
-Door - Acoustic:
-Door - Solid Timber:1414100608101010
-Door - Wood hollowcore:3030251510100707
-Furnishing - Adult office Furnishing per desk:5050404545607070
+Wood - Slats:1010367491615035
+Absorption - PU-Foam / Glasswool 50 mm:2020508090909090
+----------------------------------------------:0000000000000000
 Furnishing - Auditorium Seat occupied:3737486873777474
 Furnishing - Auditorium Seat unoccupied:1313335956616262
-Furnishing - Cloth-upholstered seats:4444607789827070
-Furnishing - Empty plastic or metal chairs:0707001400141414
-Furnishing - Orchestra with instruments on podium:2727536793878080
-Furnishing - Prosenium opening with average stage set:2020003000405050
-Glass - 4mm :3030201505050505
-Glass - Double glazing:1515050303020202
-Linoleum or Vinyl Stuck to concrete:0202020304040505
-Metal Ceiling 30% Perforated:
-Plaster - Acoustic Plaster 25mm to solid backing:0303155080858075
-Plaster - Gypsum Tiles 22mm:
-Plaster - rough on lath:0202030405040302
-Plaster - Tiles 12% perforated:
-Plasterboard - on battens/18mm airspace/glass wool:3030201505050505
-Plasterboard - on Frame with Airspace:3030120805050505
-Steel :1313090809111111
-Stone - Brickwork standard:0505040204050505
-Stone - Floor:
-Stone - Smooth Marble or Terrazzo slabs:0101010101020202
-Tiles - Ceramic smooth Surface:0101010102020202
-Water Surface:0101010101020202
-Wood - 10mm Plywood:3228221709101113
-Wood - 12mm Plywood /150mm airgap:2828080707090909
-Wood - 12mm Plywood/200mm airgap + 50mm mineral wool:1414101008100808
-Wood - 20mmm spanplatte over 250mm airgap + 50mm mineral wool:1212100807100808
-Wood - Acoustic Timber Wall Panelling:1818344259836860
-Wood - Parquet on Counterfloor:2020151010051010
-Wood - Slats:1010367491615035
-Wood - Wooden Floor on joists:1515111007060707
