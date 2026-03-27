@@ -2,9 +2,9 @@ import mysql.connector
 
 def get_connection():
     return mysql.connector.connect(
-        host="dbm0r0wv.mariadb.hosting.zone",
-        user="dbm0r0wv_t5j53mg",
-        password="s4D5fbz@NhrG",
-        database="dbm0r0wv",
+        host=st.secrets["DB_HOST"],
+        user=st.secrets["DB_USER"],
+        password=st.secrets["DB_PASSWORD"],
+        database=st.secrets["DB_NAME"],
         port=3306
     )
