@@ -14,21 +14,48 @@ from pyproj import Transformer
 # Pfad zum Downloads-Ordner des aktuellen Users
 downloads = os.path.expanduser("/Users/jonashaldemann/Downloads")
 
-# Suche nach .laz-Dateien
+# Suche nach .laz und .las Dateien
 laz_files = glob.glob(os.path.join(downloads, "*.laz"))
+las_files = glob.glob(os.path.join(downloads, "*.las"))
 
-if not laz_files:
-    raise FileNotFoundError("Keine .laz-Datei im Downloads-Ordner gefunden!")
+pointcloud_files = laz_files + las_files
+
+if not pointcloud_files:
+    raise FileNotFoundError("Keine .las oder .laz Datei im Downloads-Ordner gefunden!")
 
 # Nimm die erste gefundene Datei
-INPUT_LAZ = laz_files[0]
-print("Gefundene LAZ-Datei:", INPUT_LAZ)
+valid_pointclouds = []
+
+for pc in pointcloud_files:
+    ext = os.path.splitext(pc)[1].lower()
+    if ext in [".las", ".laz"]:
+        valid_pointclouds.append(pc)
+
+if not valid_pointclouds:
+    raise FileNotFoundError("Keine gültigen LAS/LAZ Dateien gefunden!")
+
+print("Gefundene Punktwolken:", valid_pointclouds)
 
 WORKDIR = "swisstopo_data"
 ORTHO_MERGED = os.path.join(WORKDIR, "swissimage_merged.tif")
 OUTPUT_LAZ = os.path.join(downloads, "colored.laz")
 
 STAC_API = "https://data.geo.admin.ch/api/stac/v0.9/collections/ch.swisstopo.swissimage-dop10/items"
+
+
+# ---------------------------------------------------------------------
+# CHECK CRS
+# ---------------------------------------------------------------------
+
+def check_crs(laz_path):
+    las = laspy.read(laz_path)
+    crs = las.header.parse_crs()
+    
+    if crs is None:
+        print("Warnung: LAS hat kein CRS → setze EPSG:2056 in PDAL Pipeline")
+    else:
+        print("CRS gefunden:", crs)
+
 
 # ---------------------------------------------------------------------
 # STEP 1: Bounding Box from LAZ
@@ -113,12 +140,20 @@ def colorize_laz(input_laz, raster_tif, output_laz):
     os.environ['PROJ_NETWORK'] = 'OFF'  # Mac: verhindert Hängen beim Import
     pipeline = {
         'pipeline': [
-            input_laz,
             {
-                'type': 'filters.colorization',
-                'raster': raster_tif
+                "type": "readers.las",
+                "filename": input_laz,
+                "spatialreference": "EPSG:2056"
             },
-            output_laz
+            {
+                "type": "filters.colorization",
+                "raster": raster_tif
+            },
+            {
+                "type": "writers.las",
+                "filename": output_laz,
+                "extra_dims": "all"
+            }
         ]
     }
 
@@ -129,17 +164,23 @@ def colorize_laz(input_laz, raster_tif, output_laz):
 # MAIN WORKFLOW
 # ---------------------------------------------------------------------
 if __name__ == '__main__':
+    # BBox nur einmal von allen Dateien berechnen
     print("Reading bounding box...")
-    bbox = get_laz_bbox(INPUT_LAZ)
-    print("BBox:", bbox)
+    all_bbox = [get_laz_bbox(pc) for pc in valid_pointclouds]
 
-    # LV95 (EPSG:2056) -> WGS84 (EPSG:4326)
+    # kombiniere Bounding Boxes zu einer großen Box
+    minx = min(b[0] for b in all_bbox)
+    miny = min(b[1] for b in all_bbox)
+    maxx = max(b[2] for b in all_bbox)
+    maxy = max(b[3] for b in all_bbox)
+    bbox = [minx, miny, maxx, maxy]
+    print("Gesamt-BBox:", bbox)
+
+    # LV95 -> WGS84
     transformer = Transformer.from_crs("EPSG:2056", "EPSG:4326", always_xy=True)
-    minx, miny, maxx, maxy = bbox
     min_lon, min_lat = transformer.transform(minx, miny)
     max_lon, max_lat = transformer.transform(maxx, maxy)
     bbox_wgs84 = [min_lon, min_lat, max_lon, max_lat]
-
     print("BBox in WGS84:", bbox_wgs84)
 
     print("Querying swisstopo STAC API...")
@@ -151,7 +192,13 @@ if __name__ == '__main__':
     print("Merging orthophotos...")
     merge_tiffs(tiff_paths, ORTHO_MERGED)
 
-    print("Colorizing point cloud...")
-    colorize_laz(INPUT_LAZ, ORTHO_MERGED, OUTPUT_LAZ)
+    # Colorize jede Punktwolke einzeln
+    for pc in valid_pointclouds:
+        print("Checking CRS:", pc)
+        check_crs(pc)
+        filename = os.path.basename(pc)
+        output_file = os.path.join(downloads, f"colored_{filename}")
+        print("Colorizing:", pc, "->", output_file)
+        colorize_laz(pc, ORTHO_MERGED, output_file)
 
     print("Done! Output:", OUTPUT_LAZ)
