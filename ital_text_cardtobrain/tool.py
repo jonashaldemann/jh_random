@@ -35,14 +35,18 @@ def tokenize(text):
 
 
 def is_word(token):
-    return re.fullmatch(r"\w+", token, re.UNICODE) is not None
+    # Nur Tokens mit mindestens einem Buchstaben (keine reinen Zahlen)
+    return (
+        re.fullmatch(r"\w+", token, re.UNICODE) is not None
+        and re.search(r"[A-Za-zÀ-ÖØ-öø-ÿ]", token) is not None
+    )
 
 
 def get_next_csv_index():
-    if not CSV_FILE.exists():
-        return 1
-
     existing_files = list(BASE_DIR.glob("vokabeln_*.csv"))
+
+    if not existing_files:
+        return 1
 
     max_index = 0
 
@@ -82,6 +86,39 @@ def main():
 
     tokens = tokenize(text)
 
+    # ✅ Alle Wörter extrahieren
+    all_words = [
+        token.lower()
+        for token in tokens
+        if is_word(token)
+    ]
+
+    # ✅ Unique behalten (Reihenfolge)
+    unique_words = list(dict.fromkeys(all_words))
+
+    # ✅ Übersprungene Wörter
+    skipped_words = [
+        w for w in unique_words
+        if w in known_words or w in translated_words
+    ]
+
+    # ✅ Abzufragende Wörter
+    remaining_words = [
+        w for w in unique_words
+        if w not in known_words and w not in translated_words
+    ]
+
+    total_count = len(unique_words)
+    skipped_count = len(skipped_words)
+    remaining_count = len(remaining_words)
+
+    # ✅ Übersicht
+    print()
+    print(f"Gesamtwörter: {total_count}")
+    print(f"Davon übersprungen: {skipped_count}")
+    print(f"Noch abzufragen: {remaining_count}")
+    print()
+
     for token in tokens:
         if not is_word(token):
             continue
@@ -99,21 +136,21 @@ def main():
 
         print()
         print(f"Wort: {token}")
+        print(f"noch {remaining_count}", end=" | ")
 
         answer = input("Kennst du das Wort? (y/n): ").strip().lower()
 
         if answer == "y":
             known_words.add(lower)
             asked_words[lower] = None
-
         else:
             translation = input("Deutsche Übersetzung: ").strip()
 
             asked_words[lower] = translation
-
             csv_rows.append([token, translation])
-
             translated_words.add(lower)
+
+        remaining_count -= 1
 
     output_tokens = []
 
@@ -137,7 +174,6 @@ def main():
     if csv_rows:
         file_index = get_next_csv_index()
         csv_file = write_csv(csv_rows, file_index)
-
         print(f"CSV: {csv_file}")
 
     print()
