@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Parole in Palestra</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1><em>Parole in Palestra</em></h1>
+  <div class="divider"></div>
+  <p>Wortschatz &amp; Konjugation · ca. 1500 Vokabeln</p>
+</header>
+
+<div class="stats">
+  <div class="stat">
+    <div class="stat-val" id="stat-total">0</div>
+    <div class="stat-label">Beantwortet</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val" id="stat-correct">0</div>
+    <div class="stat-label">Richtig</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val" id="stat-pct">—</div>
+    <div class="stat-label">Quote</div>
+  </div>
+  <div class="stat">
+    <div class="stat-val" id="stat-streak">0</div>
+    <div class="stat-label">Streak 🔥</div>
+  </div>
+</div>
+
+<div class="modes">
+  <button class="mode-btn active" onclick="setMode('tippen')">✍ Tippen</button>
+  <button class="mode-btn" onclick="setMode('multiple')">☰ Multiple Choice</button>
+  <button class="mode-btn" onclick="setMode('reverse')">⇄ Rückwärts</button>
+  <button class="mode-btn" onclick="filterCategory('all')">Alle</button>
+  <button class="mode-btn" onclick="filterCategory('nomen')">Nomen</button>
+  <button class="mode-btn" onclick="filterCategory('verben')">Verben</button>
+  <button class="mode-btn" onclick="filterCategory('konjugation')">Konjugation</button>
+  <button class="mode-btn" onclick="filterCategory('adjektive')">Adjektive/Adverbe</button>
+  <button class="mode-btn" onclick="filterCategory('phrasen')">Phrasen</button>
+</div>
+
+<div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+
+<div class="card-wrap">
+  <div class="card" id="card">
+    <span class="category-tag" id="cat-tag">—</span>
+    <span class="card-num" id="card-num">1 / —</span>
+    <div class="question-lang" id="q-lang">Italiano → Deutsch</div>
+    <div class="question" id="question">Lade…</div>
+    <div class="hint" id="hint"></div>
+  </div>
+</div>
+
+<div class="answer-area" id="answer-area">
+  <div class="special-chars">
+    <button class="char-btn" onclick="insertChar('à')">à</button>
+    <button class="char-btn" onclick="insertChar('è')">è</button>
+    <button class="char-btn" onclick="insertChar('é')">é</button>
+    <button class="char-btn" onclick="insertChar('ì')">ì</button>
+    <button class="char-btn" onclick="insertChar('ò')">ò</button>
+    <button class="char-btn" onclick="insertChar('ù')">ù</button>
+  </div>
+  <input type="text" class="answer-input" id="answer-input" placeholder="Deine Antwort…">
+  <div class="feedback" id="feedback"></div>
+  <div class="btn-row">
+    <button class="btn btn-secondary" onclick="skipCard()">Überspringen</button>
+    <button class="btn btn-primary" id="main-btn" onclick="handleMain()">Prüfen →</button>
+  </div>
+</div>
+
+<div class="answer-area" id="choice-area" style="display:none;">
+  <div class="choices" id="choices"></div>
+  <div class="feedback" id="feedback2"></div>
+  <div class="btn-row" style="margin-top:4px;">
+    <button class="btn btn-secondary" onclick="skipCard()">Überspringen</button>
+    <button class="btn btn-primary" id="next-btn" onclick="nextCard()" style="display:none;">Weiter →</button>
+  </div>
+</div>
+
+<div class="result-screen" id="result-screen">
+  <h2>Bravo!</h2>
+  <div class="score-circle" id="score-circle">—</div>
+  <p id="result-text"></p>
+  <button class="btn btn-primary" style="max-width:200px;margin:0 auto;" onclick="restart()">Nochmal spielen</button>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

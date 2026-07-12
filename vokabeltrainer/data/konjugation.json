@@ -1,0 +1,4238 @@
+[
+  {
+    "it": "io sono",
+    "de": "ich bin",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "tu sei",
+    "de": "du bist",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "lui è",
+    "de": "er ist",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "noi siamo",
+    "de": "wir sind",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "voi siete",
+    "de": "ihr seid",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "loro sono",
+    "de": "sie sind",
+    "cat": "konjugation",
+    "hint": "essere · Presente"
+  },
+  {
+    "it": "io ho",
+    "de": "ich habe",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "tu hai",
+    "de": "du hast",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "lui ha",
+    "de": "er hat",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "noi abbiamo",
+    "de": "wir haben",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "voi avete",
+    "de": "ihr habt",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "loro hanno",
+    "de": "sie haben",
+    "cat": "konjugation",
+    "hint": "avere · Presente"
+  },
+  {
+    "it": "io faccio",
+    "de": "ich mache",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "tu fai",
+    "de": "du machst",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "lui fa",
+    "de": "er macht",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "noi facciamo",
+    "de": "wir machen",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "voi fate",
+    "de": "ihr macht",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "loro fanno",
+    "de": "sie machen",
+    "cat": "konjugation",
+    "hint": "fare · Presente"
+  },
+  {
+    "it": "io vado",
+    "de": "ich gehe",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "tu vai",
+    "de": "du gehst",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "lui va",
+    "de": "er geht",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "noi andiamo",
+    "de": "wir gehen",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "voi andate",
+    "de": "ihr geht",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "loro vanno",
+    "de": "sie gehen",
+    "cat": "konjugation",
+    "hint": "andare · Presente"
+  },
+  {
+    "it": "io vengo",
+    "de": "ich komme",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "tu vieni",
+    "de": "du kommst",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "lui viene",
+    "de": "er kommt",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "noi veniamo",
+    "de": "wir kommen",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "voi venite",
+    "de": "ihr kommt",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "loro vengono",
+    "de": "sie kommen",
+    "cat": "konjugation",
+    "hint": "venire · Presente"
+  },
+  {
+    "it": "io dico",
+    "de": "ich sage",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "tu dici",
+    "de": "du sagst",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "lui dice",
+    "de": "er sagt",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "noi diciamo",
+    "de": "wir sagen",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "voi dite",
+    "de": "ihr sagt",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "loro dicono",
+    "de": "sie sagen",
+    "cat": "konjugation",
+    "hint": "dire · Presente"
+  },
+  {
+    "it": "io posso",
+    "de": "ich kann",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "tu puoi",
+    "de": "du kannst",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "lui può",
+    "de": "er kann",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "noi possiamo",
+    "de": "wir können",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "voi potete",
+    "de": "ihr könnt",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "loro possono",
+    "de": "sie können",
+    "cat": "konjugation",
+    "hint": "potere · Presente"
+  },
+  {
+    "it": "io voglio",
+    "de": "ich will",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "tu vuoi",
+    "de": "du willst",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "lui vuole",
+    "de": "er will",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "noi vogliamo",
+    "de": "wir wollen",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "voi volete",
+    "de": "ihr wollt",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "loro vogliono",
+    "de": "sie wollen",
+    "cat": "konjugation",
+    "hint": "volere · Presente"
+  },
+  {
+    "it": "io devo",
+    "de": "ich muss",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "tu devi",
+    "de": "du musst",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "lui deve",
+    "de": "er muss",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "noi dobbiamo",
+    "de": "wir müssen",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "voi dovete",
+    "de": "ihr müsst",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "loro devono",
+    "de": "sie müssen",
+    "cat": "konjugation",
+    "hint": "dovere · Presente"
+  },
+  {
+    "it": "io so",
+    "de": "ich weiss",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "tu sai",
+    "de": "du weisst",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "lui sa",
+    "de": "er weiss",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "noi sappiamo",
+    "de": "wir wissen",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "voi sapete",
+    "de": "ihr wisst",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "loro sanno",
+    "de": "sie wissen",
+    "cat": "konjugation",
+    "hint": "sapere · Presente"
+  },
+  {
+    "it": "io metto",
+    "de": "ich stelle",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "tu metti",
+    "de": "du stellst",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "lui mette",
+    "de": "er stellt",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "noi mettiamo",
+    "de": "wir stellen",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "voi mettete",
+    "de": "ihr stellt",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "loro mettono",
+    "de": "sie stellen",
+    "cat": "konjugation",
+    "hint": "mettere · Presente"
+  },
+  {
+    "it": "io esco",
+    "de": "ich gehe hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "tu esci",
+    "de": "du gehst hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "lui esce",
+    "de": "er geht hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "noi usciamo",
+    "de": "wir gehen hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "voi uscite",
+    "de": "ihr geht hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "loro escono",
+    "de": "sie gehen hinaus",
+    "cat": "konjugation",
+    "hint": "uscire · Presente"
+  },
+  {
+    "it": "io sto",
+    "de": "ich bleibe",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "tu stai",
+    "de": "du du bleibst",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "lui sta",
+    "de": "er bleibt",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "noi stiamo",
+    "de": "wir bleiben",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "voi state",
+    "de": "ihr bleibt",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "loro stanno",
+    "de": "sie bleiben",
+    "cat": "konjugation",
+    "hint": "stare · Presente"
+  },
+  {
+    "it": "io parlo",
+    "de": "ich spreche",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "tu parli",
+    "de": "du sprichst",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "lui parla",
+    "de": "er spricht",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "noi parliamo",
+    "de": "wir sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "voi parlate",
+    "de": "ihr sprecht",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "loro parlano",
+    "de": "sie sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Presente"
+  },
+  {
+    "it": "io mangio",
+    "de": "ich esse",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "tu mangi",
+    "de": "du isst",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "lui mangia",
+    "de": "er isst",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "noi mangiamo",
+    "de": "wir essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "voi mangiate",
+    "de": "ihr esst",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "loro mangiano",
+    "de": "sie essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Presente"
+  },
+  {
+    "it": "io dormo",
+    "de": "ich schlafe",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "tu dormi",
+    "de": "du schläfst",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "lui dorme",
+    "de": "er schläft",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "noi dormiamo",
+    "de": "wir schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "voi dormite",
+    "de": "ihr schlaft",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "loro dormono",
+    "de": "sie schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Presente"
+  },
+  {
+    "it": "io lavoro",
+    "de": "ich arbeite",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "tu lavori",
+    "de": "du arbeitest",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "lui lavora",
+    "de": "er arbeitet",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "noi lavoriamo",
+    "de": "wir arbeiten",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "voi lavorate",
+    "de": "ihr arbeitet",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "loro lavorano",
+    "de": "sie arbeiten",
+    "cat": "konjugation",
+    "hint": "lavorare · Presente"
+  },
+  {
+    "it": "io studio",
+    "de": "ich lerne/studiere",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "tu studi",
+    "de": "du lernst/studierst",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "lui studia",
+    "de": "er lernt/studiert",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "noi studiamo",
+    "de": "wir lernen/studieren",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "voi studiate",
+    "de": "ihr lernt/studiert",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "loro studiano",
+    "de": "sie lernen/studieren",
+    "cat": "konjugation",
+    "hint": "studiare · Presente"
+  },
+  {
+    "it": "io scrivo",
+    "de": "ich schreibe",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "tu scrivi",
+    "de": "du schreibst",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "lui scrive",
+    "de": "er schreibt",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "noi scriviamo",
+    "de": "wir schreiben",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "voi scrivete",
+    "de": "ihr schreibt",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "loro scrivono",
+    "de": "sie schreiben",
+    "cat": "konjugation",
+    "hint": "scrivere · Presente"
+  },
+  {
+    "it": "io leggo",
+    "de": "ich lese",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "tu leggi",
+    "de": "du liest",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "lui legge",
+    "de": "er liest",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "noi leggiamo",
+    "de": "wir lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "voi leggete",
+    "de": "ihr lest",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "loro leggono",
+    "de": "sie lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Presente"
+  },
+  {
+    "it": "io compro",
+    "de": "ich kaufe",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "tu compri",
+    "de": "du kaufst",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "lui compra",
+    "de": "er kauft",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "noi compriamo",
+    "de": "wir kaufen",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "voi comprate",
+    "de": "ihr kauft",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "loro comprano",
+    "de": "sie kaufen",
+    "cat": "konjugation",
+    "hint": "comprare · Presente"
+  },
+  {
+    "it": "io trovo",
+    "de": "ich finde",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "tu trovi",
+    "de": "du findest",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "lui trova",
+    "de": "er findet",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "noi troviamo",
+    "de": "wir finden",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "voi trovate",
+    "de": "ihr findet",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "loro trovano",
+    "de": "sie finden",
+    "cat": "konjugation",
+    "hint": "trovare · Presente"
+  },
+  {
+    "it": "io sento",
+    "de": "ich fühle/höre",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "tu senti",
+    "de": "du fühlst/hörst",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "lui sente",
+    "de": "er fühlt/hört",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "noi sentiamo",
+    "de": "wir fühlen/hören",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "voi sentite",
+    "de": "ihr fühlt/hört",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "loro sentono",
+    "de": "sie fühlen/hören",
+    "cat": "konjugation",
+    "hint": "sentire · Presente"
+  },
+  {
+    "it": "io capisco",
+    "de": "ich verstehe",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "tu capisci",
+    "de": "du verstehst",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "lui capisce",
+    "de": "er versteht",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "noi capiamo",
+    "de": "wir verstehen",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "voi capite",
+    "de": "ihr versteht",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "loro capiscono",
+    "de": "sie verstehen",
+    "cat": "konjugation",
+    "hint": "capire · Presente"
+  },
+  {
+    "it": "io finisco",
+    "de": "ich beende",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "tu finisci",
+    "de": "du beendest",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "lui finisce",
+    "de": "er beendet",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "noi finiamo",
+    "de": "wir beenden",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "voi finite",
+    "de": "ihr beendet",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "loro finiscono",
+    "de": "sie beenden",
+    "cat": "konjugation",
+    "hint": "finire · Presente"
+  },
+  {
+    "it": "parla!",
+    "de": "sprich! (tu)",
+    "cat": "konjugation",
+    "hint": "parlare · Imperativo (informell)"
+  },
+  {
+    "it": "parli!",
+    "de": "sprechen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "parlare · Imperativo (formell)"
+  },
+  {
+    "it": "parliamo!",
+    "de": "lasst uns sprechen! (noi)",
+    "cat": "konjugation",
+    "hint": "parlare · Imperativo"
+  },
+  {
+    "it": "parlate!",
+    "de": "sprecht! (voi)",
+    "cat": "konjugation",
+    "hint": "parlare · Imperativo"
+  },
+  {
+    "it": "mangia!",
+    "de": "iss! (tu)",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperativo (informell)"
+  },
+  {
+    "it": "mangi!",
+    "de": "essen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperativo (formell)"
+  },
+  {
+    "it": "mangiamo!",
+    "de": "lasst uns essen! (noi)",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperativo"
+  },
+  {
+    "it": "mangiate!",
+    "de": "esst! (voi)",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperativo"
+  },
+  {
+    "it": "vieni!",
+    "de": "komm! (tu)",
+    "cat": "konjugation",
+    "hint": "venire · Imperativo (informell)"
+  },
+  {
+    "it": "venga!",
+    "de": "kommen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "venire · Imperativo (formell)"
+  },
+  {
+    "it": "veniamo!",
+    "de": "lasst uns kommen! (noi)",
+    "cat": "konjugation",
+    "hint": "venire · Imperativo"
+  },
+  {
+    "it": "venite!",
+    "de": "kommt! (voi)",
+    "cat": "konjugation",
+    "hint": "venire · Imperativo"
+  },
+  {
+    "it": "vai!",
+    "de": "geh! (tu)",
+    "cat": "konjugation",
+    "hint": "andare · Imperativo (informell)"
+  },
+  {
+    "it": "vada!",
+    "de": "gehen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "andare · Imperativo (formell)"
+  },
+  {
+    "it": "andiamo!",
+    "de": "lasst uns gehen! (noi)",
+    "cat": "konjugation",
+    "hint": "andare · Imperativo"
+  },
+  {
+    "it": "andate!",
+    "de": "geht! (voi)",
+    "cat": "konjugation",
+    "hint": "andare · Imperativo"
+  },
+  {
+    "it": "fai!",
+    "de": "mach! (tu)",
+    "cat": "konjugation",
+    "hint": "fare · Imperativo (informell)"
+  },
+  {
+    "it": "faccia!",
+    "de": "machen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "fare · Imperativo (formell)"
+  },
+  {
+    "it": "facciamo!",
+    "de": "lasst uns machen! (noi)",
+    "cat": "konjugation",
+    "hint": "fare · Imperativo"
+  },
+  {
+    "it": "fate!",
+    "de": "macht! (voi)",
+    "cat": "konjugation",
+    "hint": "fare · Imperativo"
+  },
+  {
+    "it": "di'!",
+    "de": "sag! (tu)",
+    "cat": "konjugation",
+    "hint": "dire · Imperativo (informell)"
+  },
+  {
+    "it": "dica!",
+    "de": "sagen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "dire · Imperativo (formell)"
+  },
+  {
+    "it": "diciamo!",
+    "de": "lasst uns sagen! (noi)",
+    "cat": "konjugation",
+    "hint": "dire · Imperativo"
+  },
+  {
+    "it": "dite!",
+    "de": "sagt! (voi)",
+    "cat": "konjugation",
+    "hint": "dire · Imperativo"
+  },
+  {
+    "it": "stai!",
+    "de": "bleib! (tu)",
+    "cat": "konjugation",
+    "hint": "stare · Imperativo (informell)"
+  },
+  {
+    "it": "stia!",
+    "de": "bleiben Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "stare · Imperativo (formell)"
+  },
+  {
+    "it": "stiamo!",
+    "de": "lasst uns bleiben! (noi)",
+    "cat": "konjugation",
+    "hint": "stare · Imperativo"
+  },
+  {
+    "it": "state!",
+    "de": "bleibt! (voi)",
+    "cat": "konjugation",
+    "hint": "stare · Imperativo"
+  },
+  {
+    "it": "sii!",
+    "de": "sei! (tu)",
+    "cat": "konjugation",
+    "hint": "essere · Imperativo (informell)"
+  },
+  {
+    "it": "sia!",
+    "de": "seien Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "essere · Imperativo (formell)"
+  },
+  {
+    "it": "siamo!",
+    "de": "lasst uns sein! (noi)",
+    "cat": "konjugation",
+    "hint": "essere · Imperativo"
+  },
+  {
+    "it": "siate!",
+    "de": "seid! (voi)",
+    "cat": "konjugation",
+    "hint": "essere · Imperativo"
+  },
+  {
+    "it": "abbi!",
+    "de": "hab! (tu)",
+    "cat": "konjugation",
+    "hint": "avere · Imperativo (informell)"
+  },
+  {
+    "it": "abbia!",
+    "de": "haben Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "avere · Imperativo (formell)"
+  },
+  {
+    "it": "abbiamo!",
+    "de": "lasst uns haben! (noi)",
+    "cat": "konjugation",
+    "hint": "avere · Imperativo"
+  },
+  {
+    "it": "abbiate!",
+    "de": "habt! (voi)",
+    "cat": "konjugation",
+    "hint": "avere · Imperativo"
+  },
+  {
+    "it": "dormi!",
+    "de": "schlaf! (tu)",
+    "cat": "konjugation",
+    "hint": "dormire · Imperativo (informell)"
+  },
+  {
+    "it": "dorma!",
+    "de": "schlafen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "dormire · Imperativo (formell)"
+  },
+  {
+    "it": "dormiamo!",
+    "de": "lasst uns schlafen! (noi)",
+    "cat": "konjugation",
+    "hint": "dormire · Imperativo"
+  },
+  {
+    "it": "dormite!",
+    "de": "schlaft! (voi)",
+    "cat": "konjugation",
+    "hint": "dormire · Imperativo"
+  },
+  {
+    "it": "scrivi!",
+    "de": "schreib! (tu)",
+    "cat": "konjugation",
+    "hint": "scrivere · Imperativo (informell)"
+  },
+  {
+    "it": "scriva!",
+    "de": "schreiben Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "scrivere · Imperativo (formell)"
+  },
+  {
+    "it": "scriviamo!",
+    "de": "lasst uns schreiben! (noi)",
+    "cat": "konjugation",
+    "hint": "scrivere · Imperativo"
+  },
+  {
+    "it": "scrivete!",
+    "de": "schreibt! (voi)",
+    "cat": "konjugation",
+    "hint": "scrivere · Imperativo"
+  },
+  {
+    "it": "leggi!",
+    "de": "lies! (tu)",
+    "cat": "konjugation",
+    "hint": "leggere · Imperativo (informell)"
+  },
+  {
+    "it": "legga!",
+    "de": "lesen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "leggere · Imperativo (formell)"
+  },
+  {
+    "it": "leggiamo!",
+    "de": "lasst uns lesen! (noi)",
+    "cat": "konjugation",
+    "hint": "leggere · Imperativo"
+  },
+  {
+    "it": "leggete!",
+    "de": "lest! (voi)",
+    "cat": "konjugation",
+    "hint": "leggere · Imperativo"
+  },
+  {
+    "it": "aspetta!",
+    "de": "warte! (tu)",
+    "cat": "konjugation",
+    "hint": "aspettare · Imperativo (informell)"
+  },
+  {
+    "it": "aspetti!",
+    "de": "warten Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "aspettare · Imperativo (formell)"
+  },
+  {
+    "it": "aspettiamo!",
+    "de": "lasst uns warten! (noi)",
+    "cat": "konjugation",
+    "hint": "aspettare · Imperativo"
+  },
+  {
+    "it": "aspettate!",
+    "de": "wartet! (voi)",
+    "cat": "konjugation",
+    "hint": "aspettare · Imperativo"
+  },
+  {
+    "it": "guarda!",
+    "de": "schau! (tu)",
+    "cat": "konjugation",
+    "hint": "guardare · Imperativo (informell)"
+  },
+  {
+    "it": "guardi!",
+    "de": "schauen Sie! (Lei)",
+    "cat": "konjugation",
+    "hint": "guardare · Imperativo (formell)"
+  },
+  {
+    "it": "guardiamo!",
+    "de": "lasst uns schauen! (noi)",
+    "cat": "konjugation",
+    "hint": "guardare · Imperativo"
+  },
+  {
+    "it": "guardate!",
+    "de": "schaut! (voi)",
+    "cat": "konjugation",
+    "hint": "guardare · Imperativo"
+  },
+  {
+    "it": "siediti!",
+    "de": "setz dich! (tu)",
+    "cat": "konjugation",
+    "hint": "sedersi · Imperativo (informell)"
+  },
+  {
+    "it": "si sieda!",
+    "de": "setzen Sie sich! (Lei)",
+    "cat": "konjugation",
+    "hint": "sedersi · Imperativo (formell)"
+  },
+  {
+    "it": "sediamoci!",
+    "de": "lasst uns uns setzen! (noi)",
+    "cat": "konjugation",
+    "hint": "sedersi · Imperativo"
+  },
+  {
+    "it": "sedetevi!",
+    "de": "setzt euch! (voi)",
+    "cat": "konjugation",
+    "hint": "sedersi · Imperativo"
+  },
+  {
+    "it": "alzati!",
+    "de": "steh auf! (tu)",
+    "cat": "konjugation",
+    "hint": "alzarsi · Imperativo (informell)"
+  },
+  {
+    "it": "si alzi!",
+    "de": "stehen Sie auf! (Lei)",
+    "cat": "konjugation",
+    "hint": "alzarsi · Imperativo (formell)"
+  },
+  {
+    "it": "alziamoci!",
+    "de": "lasst uns aufstehen! (noi)",
+    "cat": "konjugation",
+    "hint": "alzarsi · Imperativo"
+  },
+  {
+    "it": "alzatevi!",
+    "de": "steht auf! (voi)",
+    "cat": "konjugation",
+    "hint": "alzarsi · Imperativo"
+  },
+  {
+    "it": "io sto parlando",
+    "de": "ich spreche gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai parlando",
+    "de": "du sprichst gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta parlando",
+    "de": "er spricht gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo parlando",
+    "de": "wir sprechen gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state parlando",
+    "de": "ihr sprecht gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno parlando",
+    "de": "sie sprechen gerade",
+    "cat": "konjugation",
+    "hint": "parlare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto mangiando",
+    "de": "ich esse gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai mangiando",
+    "de": "du isst gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta mangiando",
+    "de": "er isst gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo mangiando",
+    "de": "wir essen gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state mangiando",
+    "de": "ihr esst gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno mangiando",
+    "de": "sie essen gerade",
+    "cat": "konjugation",
+    "hint": "mangiare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto dormendo",
+    "de": "ich schlafe gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai dormendo",
+    "de": "du schläfst gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta dormendo",
+    "de": "er schläft gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo dormendo",
+    "de": "wir schlafen gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state dormendo",
+    "de": "ihr schlaft gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno dormendo",
+    "de": "sie schlafen gerade",
+    "cat": "konjugation",
+    "hint": "dormire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto lavorando",
+    "de": "ich arbeite gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai lavorando",
+    "de": "du arbeitest gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta lavorando",
+    "de": "er arbeitet gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo lavorando",
+    "de": "wir arbeiten gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state lavorando",
+    "de": "ihr arbeitet gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno lavorando",
+    "de": "sie arbeiten gerade",
+    "cat": "konjugation",
+    "hint": "lavorare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto scrivendo",
+    "de": "ich schreibe gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai scrivendo",
+    "de": "du schreibst gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta scrivendo",
+    "de": "er schreibt gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo scrivendo",
+    "de": "wir schreiben gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state scrivendo",
+    "de": "ihr schreibt gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno scrivendo",
+    "de": "sie schreiben gerade",
+    "cat": "konjugation",
+    "hint": "scrivere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto leggendo",
+    "de": "ich lese gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai leggendo",
+    "de": "du liest gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta leggendo",
+    "de": "er liest gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo leggendo",
+    "de": "wir lesen gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state leggendo",
+    "de": "ihr lest gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno stanno leggendo",
+    "de": "sie lesen gerade",
+    "cat": "konjugation",
+    "hint": "leggere · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto facendo",
+    "de": "ich mache gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai facendo",
+    "de": "du machst gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta facendo",
+    "de": "er macht gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo facendo",
+    "de": "wir machen gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state facendo",
+    "de": "ihr macht gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno facendo",
+    "de": "sie machen gerade",
+    "cat": "konjugation",
+    "hint": "fare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto andando",
+    "de": "ich gehe gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai andando",
+    "de": "du gehst gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta andando",
+    "de": "er geht gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo andando",
+    "de": "wir gehen gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state andando",
+    "de": "ihr geht gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno andando",
+    "de": "sie gehen gerade",
+    "cat": "konjugation",
+    "hint": "andare · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io sto venendo",
+    "de": "ich komme gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "tu stai venendo",
+    "de": "du kommst gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "lui sta venendo",
+    "de": "er kommt gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "noi stiamo venendo",
+    "de": "wir kommen gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "voi state venendo",
+    "de": "ihr kommt gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "loro stanno venendo",
+    "de": "sie kommen gerade",
+    "cat": "konjugation",
+    "hint": "venire · Gerundio (stare + gerundio)"
+  },
+  {
+    "it": "io ho mangiato",
+    "de": "ich habe gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "tu hai mangiato",
+    "de": "du hast gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "lui ha mangiato",
+    "de": "er hat gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo mangiato",
+    "de": "wir haben gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "voi avete mangiato",
+    "de": "ihr habt gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "loro hanno mangiato",
+    "de": "sie haben gegessen",
+    "cat": "konjugation",
+    "hint": "mangiare · Passato prossimo"
+  },
+  {
+    "it": "io ho parlato",
+    "de": "ich habe gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "tu hai parlato",
+    "de": "du hast gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "lui ha parlato",
+    "de": "er hat gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo parlato",
+    "de": "wir haben gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "voi avete parlato",
+    "de": "ihr habt gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "loro hanno parlato",
+    "de": "sie haben gesprochen",
+    "cat": "konjugation",
+    "hint": "parlare · Passato prossimo"
+  },
+  {
+    "it": "io ho dormito",
+    "de": "ich habe geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "tu hai dormito",
+    "de": "du hast geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "lui ha dormito",
+    "de": "er hat geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo dormito",
+    "de": "wir haben geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "voi avete dormito",
+    "de": "ihr habt geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "loro hanno dormito",
+    "de": "sie haben geschlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Passato prossimo"
+  },
+  {
+    "it": "io ho fatto",
+    "de": "ich habe gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "tu hai fatto",
+    "de": "du hast gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "lui ha fatto",
+    "de": "er hat gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "noi abbiamo fatto",
+    "de": "wir haben gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "voi avete fatto",
+    "de": "ihr habt gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "loro hanno fatto",
+    "de": "sie haben gemacht",
+    "cat": "konjugation",
+    "hint": "fare · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "io ho detto",
+    "de": "ich habe gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "tu hai detto",
+    "de": "du hast gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "lui ha detto",
+    "de": "er hat gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "noi abbiamo detto",
+    "de": "wir haben gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "voi avete detto",
+    "de": "ihr habt gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "loro hanno detto",
+    "de": "sie haben gesagt",
+    "cat": "konjugation",
+    "hint": "dire · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "io ho scritto",
+    "de": "ich habe geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "tu hai scritto",
+    "de": "du hast geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "lui ha scritto",
+    "de": "er hat geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "noi abbiamo scritto",
+    "de": "wir haben geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "voi avete scritto",
+    "de": "ihr habt geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "loro hanno scritto",
+    "de": "sie haben geschrieben",
+    "cat": "konjugation",
+    "hint": "scrivere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "io ho bevuto",
+    "de": "ich habe getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "tu hai bevuto",
+    "de": "du hast getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "lui ha bevuto",
+    "de": "er hat getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "noi abbiamo bevuto",
+    "de": "wir haben getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "voi avete bevuto",
+    "de": "ihr habt getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "loro hanno bevuto",
+    "de": "sie haben getrunken",
+    "cat": "konjugation",
+    "hint": "bere · Passato prossimo (irregolare)"
+  },
+  {
+    "it": "io sono andato",
+    "de": "ich bin gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei andato",
+    "de": "du bist gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è andato",
+    "de": "er ist gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo andati/e",
+    "de": "wir sind gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete andati/e",
+    "de": "ihr seid gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono andati/e",
+    "de": "sie sind gegangen",
+    "cat": "konjugation",
+    "hint": "andare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono venuto",
+    "de": "ich bin gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei venuto",
+    "de": "du bist gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è venuto",
+    "de": "er ist gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo venuti/e",
+    "de": "wir sind gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete venuti/e",
+    "de": "ihr seid gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono venuti/e",
+    "de": "sie sind gekommen",
+    "cat": "konjugation",
+    "hint": "venire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono partito",
+    "de": "ich bin abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei partito",
+    "de": "du bist abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è partito",
+    "de": "er ist abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo partiti/e",
+    "de": "wir sind abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete partiti/e",
+    "de": "ihr seid abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono partiti/e",
+    "de": "sie sind abgereist",
+    "cat": "konjugation",
+    "hint": "partire · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono arrivato",
+    "de": "ich bin angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei arrivato",
+    "de": "du bist angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è arrivato",
+    "de": "er ist angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo arrivati/e",
+    "de": "wir sind angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete arrivati/e",
+    "de": "ihr seid angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono arrivati/e",
+    "de": "sie sind angekommen",
+    "cat": "konjugation",
+    "hint": "arrivare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono tornato",
+    "de": "ich bin zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei tornato",
+    "de": "du bist zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è tornato",
+    "de": "er ist zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo tornati/e",
+    "de": "wir sind zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete tornati/e",
+    "de": "ihr seid zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono tornati/e",
+    "de": "sie sind zurückgekehrt",
+    "cat": "konjugation",
+    "hint": "tornare · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono rimasto",
+    "de": "ich bin geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei rimasto",
+    "de": "du bist geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è rimasto",
+    "de": "er ist geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo rimasti/e",
+    "de": "wir sind geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete rimasti/e",
+    "de": "ihr seid geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono rimasti/e",
+    "de": "sie sind geblieben",
+    "cat": "konjugation",
+    "hint": "rimanere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io sono stato",
+    "de": "ich bin gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "tu sei stato",
+    "de": "du bist gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "lui è stato",
+    "de": "er ist gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "noi siamo stati/e",
+    "de": "wir sind gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "voi siete stati/e",
+    "de": "ihr seid gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "loro sono stati/e",
+    "de": "sie sind gewesen",
+    "cat": "konjugation",
+    "hint": "essere · Passato prossimo (con essere)"
+  },
+  {
+    "it": "io mi sono alzato",
+    "de": "ich bin aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "tu ti sei alzato",
+    "de": "du bist aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "lui si è alzato",
+    "de": "er ist aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "noi ci siamo alzati/e",
+    "de": "wir sind aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "voi vi siete alzati/e",
+    "de": "ihr seid aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "loro si sono alzati/e",
+    "de": "sie sind aufgestanden",
+    "cat": "konjugation",
+    "hint": "alzarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "io mi sono svegliato",
+    "de": "ich bin aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "tu ti sei svegliato",
+    "de": "du bist aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "lui si è svegliato",
+    "de": "er ist aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "noi ci siamo svegliati/e",
+    "de": "wir sind aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "voi vi siete svegliati/e",
+    "de": "ihr seid aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "loro si sono svegliati/e",
+    "de": "sie sind aufgewacht",
+    "cat": "konjugation",
+    "hint": "svegliarsi · Passato prossimo (riflessivo)"
+  },
+  {
+    "it": "io ho messo",
+    "de": "ich habe gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "tu hai messo",
+    "de": "du hast gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "lui ha messo",
+    "de": "er hat gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "noi abbiamo messo",
+    "de": "wir haben gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "voi avete messo",
+    "de": "ihr habt gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "loro hanno messo",
+    "de": "sie haben gestellt/gelegt",
+    "cat": "konjugation",
+    "hint": "mettere · Passato Prossimo"
+  },
+  {
+    "it": "io sono uscito",
+    "de": "ich bin ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "tu sei uscito",
+    "de": "du bist ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "lui è uscito",
+    "de": "er ist ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "noi siamo usciti/e",
+    "de": "wir sind ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "voi siete usciti/e",
+    "de": "ihr seid ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "loro sono usciti/e",
+    "de": "sie sind ausgegangen",
+    "cat": "konjugation",
+    "hint": "uscire · Passato Prossimo"
+  },
+  {
+    "it": "io ero",
+    "de": "ich war",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "tu eri",
+    "de": "du warst",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "lui era",
+    "de": "er war",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "noi eravamo",
+    "de": "wir waren",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "voi eravate",
+    "de": "ihr wart",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "loro erano",
+    "de": "sie waren",
+    "cat": "konjugation",
+    "hint": "essere · Imperfetto"
+  },
+  {
+    "it": "io avevo",
+    "de": "ich hatte",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "tu avevi",
+    "de": "du hattest",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "lui aveva",
+    "de": "er hatte",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "noi avevamo",
+    "de": "wir hatten",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "voi avevate",
+    "de": "ihr hattet",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "loro avevano",
+    "de": "sie hatten",
+    "cat": "konjugation",
+    "hint": "avere · Imperfetto"
+  },
+  {
+    "it": "io facevo",
+    "de": "ich machte",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "tu facevi",
+    "de": "du machtest",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "lui faceva",
+    "de": "er machte",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "noi facevamo",
+    "de": "wir machten",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "voi facevate",
+    "de": "ihr machtet",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "loro facevano",
+    "de": "sie machten",
+    "cat": "konjugation",
+    "hint": "fare · Imperfetto"
+  },
+  {
+    "it": "io andavo",
+    "de": "ich ging",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "tu andavi",
+    "de": "du gingst",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "lui andava",
+    "de": "er ging",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "noi andavamo",
+    "de": "wir gingen",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "voi andavate",
+    "de": "ihr gingt",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "loro andavano",
+    "de": "sie gingen",
+    "cat": "konjugation",
+    "hint": "andare · Imperfetto"
+  },
+  {
+    "it": "io parlavo",
+    "de": "ich sprach",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "tu parlavi",
+    "de": "du sprachst",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "lui parlava",
+    "de": "er sprach",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "noi parlavamo",
+    "de": "wir sprachen",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "voi parlavate",
+    "de": "ihr spracht",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "loro parlavano",
+    "de": "sie sprachen",
+    "cat": "konjugation",
+    "hint": "parlare · Imperfetto"
+  },
+  {
+    "it": "io mangiavo",
+    "de": "ich ass",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "tu mangiavi",
+    "de": "du assest",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "lui mangiava",
+    "de": "er ass",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "noi mangiavamo",
+    "de": "wir assen",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "voi mangiavate",
+    "de": "ihr asst",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "loro mangiavano",
+    "de": "sie assen",
+    "cat": "konjugation",
+    "hint": "mangiare · Imperfetto"
+  },
+  {
+    "it": "io dormivo",
+    "de": "ich schlief",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "tu dormivi",
+    "de": "du schliefst",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "lui dormiva",
+    "de": "er schlief",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "noi dormivamo",
+    "de": "wir schliefen",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "voi dormivate",
+    "de": "ihr schlieft",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "loro dormivano",
+    "de": "sie schliefen",
+    "cat": "konjugation",
+    "hint": "dormire · Imperfetto"
+  },
+  {
+    "it": "io lavoravo",
+    "de": "ich arbeitete",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "tu lavoravi",
+    "de": "du arbeitetest",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "lui lavorava",
+    "de": "er arbeitete",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "noi lavoravamo",
+    "de": "wir arbeiteten",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "voi lavoravate",
+    "de": "ihr arbeitetet",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "loro lavoravano",
+    "de": "sie arbeiteten",
+    "cat": "konjugation",
+    "hint": "lavorare · Imperfetto"
+  },
+  {
+    "it": "io studiavo",
+    "de": "ich lernte",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "tu studiavi",
+    "de": "du lerntest",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "lui studiava",
+    "de": "er lernte",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "noi studiavamo",
+    "de": "wir lernten",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "voi studiavate",
+    "de": "ihr lerntet",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "loro studiavano",
+    "de": "sie lernten",
+    "cat": "konjugation",
+    "hint": "studiare · Imperfetto"
+  },
+  {
+    "it": "io mettevo",
+    "de": "ich stellte/legte",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "tu mettevi",
+    "de": "du stelltest/legtest",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "lui metteva",
+    "de": "er stellte/legte",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "noi mettevamo",
+    "de": "wir stellten/legten",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "voi mettevate",
+    "de": "ihr stelltet/legtet",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "loro mettevano",
+    "de": "sie stellten/legten",
+    "cat": "konjugation",
+    "hint": "mettere · Imperfetto"
+  },
+  {
+    "it": "io uscivo",
+    "de": "ich ging aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "tu uscivi",
+    "de": "du gingst aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "lui usciva",
+    "de": "er ging aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "noi uscivamo",
+    "de": "wir gingen aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "voi uscivate",
+    "de": "ihr gingt aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "loro uscivano",
+    "de": "sie gingen aus",
+    "cat": "konjugation",
+    "hint": "uscire · Imperfetto"
+  },
+  {
+    "it": "io sarò",
+    "de": "ich werde sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "tu sarai",
+    "de": "du wirst sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "lui sarà",
+    "de": "er wird sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "noi saremo",
+    "de": "wir werden sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "voi sarete",
+    "de": "ihr werdet sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "loro saranno",
+    "de": "sie werden sein",
+    "cat": "konjugation",
+    "hint": "essere · Futuro semplice"
+  },
+  {
+    "it": "io avrò",
+    "de": "ich werde haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "tu avrai",
+    "de": "du wirst haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "lui avrà",
+    "de": "er wird haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "noi avremo",
+    "de": "wir werden haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "voi avrete",
+    "de": "ihr werdet haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "loro avranno",
+    "de": "sie werden haben",
+    "cat": "konjugation",
+    "hint": "avere · Futuro semplice"
+  },
+  {
+    "it": "io farò",
+    "de": "ich werde machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "tu farai",
+    "de": "du wirst machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "lui farà",
+    "de": "er wird machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "noi faremo",
+    "de": "wir werden machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "voi farete",
+    "de": "ihr werdet machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "loro faranno",
+    "de": "sie werden machen",
+    "cat": "konjugation",
+    "hint": "fare · Futuro semplice"
+  },
+  {
+    "it": "io andrò",
+    "de": "ich werde gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "tu andrai",
+    "de": "du wirst gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "lui andrà",
+    "de": "er wird gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "noi andremo",
+    "de": "wir werden gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "voi andrete",
+    "de": "ihr werdet gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "loro andranno",
+    "de": "sie werden gehen",
+    "cat": "konjugation",
+    "hint": "andare · Futuro semplice"
+  },
+  {
+    "it": "io verrò",
+    "de": "ich werde kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "tu verrai",
+    "de": "du wirst kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "lui verrà",
+    "de": "er wird kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "noi verremo",
+    "de": "wir werden kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "voi verrete",
+    "de": "ihr werdet kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "loro verranno",
+    "de": "sie werden kommen",
+    "cat": "konjugation",
+    "hint": "venire · Futuro semplice"
+  },
+  {
+    "it": "io parlerò",
+    "de": "ich werde sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "tu parlerai",
+    "de": "du wirst sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "lui parlerà",
+    "de": "er wird sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "noi parleremo",
+    "de": "wir werden sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "voi parlerete",
+    "de": "ihr werdet sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "loro parleranno",
+    "de": "sie werden sprechen",
+    "cat": "konjugation",
+    "hint": "parlare · Futuro semplice"
+  },
+  {
+    "it": "io mangerò",
+    "de": "ich werde essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "tu mangerai",
+    "de": "du wirst essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "lui mangerà",
+    "de": "er wird essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "noi mangeremo",
+    "de": "wir werden essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "voi mangerete",
+    "de": "ihr werdet essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "loro mangeranno",
+    "de": "sie werden essen",
+    "cat": "konjugation",
+    "hint": "mangiare · Futuro semplice"
+  },
+  {
+    "it": "io dormirò",
+    "de": "ich werde schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "tu dormirai",
+    "de": "du wirst schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "lui dormirà",
+    "de": "er wird schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "noi dormiremo",
+    "de": "wir werden schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "voi dormirete",
+    "de": "ihr werdet schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "loro dormiranno",
+    "de": "sie werden schlafen",
+    "cat": "konjugation",
+    "hint": "dormire · Futuro semplice"
+  },
+  {
+    "it": "io dirò",
+    "de": "ich werde sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "tu dirai",
+    "de": "du wirst sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "lui dirà",
+    "de": "er wird sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "noi diremo",
+    "de": "wir werden sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "voi direte",
+    "de": "ihr werdet sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "loro diranno",
+    "de": "sie werden sagen",
+    "cat": "konjugation",
+    "hint": "dire · Futuro semplice"
+  },
+  {
+    "it": "io metterò",
+    "de": "ich werde stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "tu metterai",
+    "de": "du wirst stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "lui metterà",
+    "de": "er wird stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "noi metteremo",
+    "de": "wir werden stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "voi metterete",
+    "de": "ihr werdet stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "loro metteranno",
+    "de": "sie werden stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Futuro"
+  },
+  {
+    "it": "io uscirò",
+    "de": "ich werde ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "tu uscirai",
+    "de": "du wirst ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "lui uscirà",
+    "de": "er wird ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "noi usciremo",
+    "de": "wir werden ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "voi uscirete",
+    "de": "ihr werdet ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "loro usciranno",
+    "de": "sie werden ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Futuro"
+  },
+  {
+    "it": "che io sia",
+    "de": "dass ich sei",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu sia",
+    "de": "dass du seist",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui sia",
+    "de": "dass er sei",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi siamo",
+    "de": "dass wir seien",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi siate",
+    "de": "dass ihr seiet",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro siano",
+    "de": "dass sie seien",
+    "cat": "konjugation",
+    "hint": "essere · Congiuntivo presente"
+  },
+  {
+    "it": "che io abbia",
+    "de": "dass ich habe",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu abbia",
+    "de": "dass du habest",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui abbia",
+    "de": "dass er habe",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi abbiamo",
+    "de": "dass wir haben",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi abbiate",
+    "de": "dass ihr habet",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro abbiano",
+    "de": "dass sie haben",
+    "cat": "konjugation",
+    "hint": "avere · Congiuntivo presente"
+  },
+  {
+    "it": "che io vada",
+    "de": "dass ich gehe",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che tu vada",
+    "de": "dass du gehst",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che lui vada",
+    "de": "dass er geht",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che noi andiamo",
+    "de": "dass wir gehen",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che voi andiate",
+    "de": "dass ihr geht",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che loro vadano",
+    "de": "dass sie gehen",
+    "cat": "konjugation",
+    "hint": "andare · Congiuntivo presente"
+  },
+  {
+    "it": "che io faccia",
+    "de": "dass ich mache",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che tu faccia",
+    "de": "dass du machst",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che lui faccia",
+    "de": "dass er macht",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che noi facciamo",
+    "de": "dass wir machen",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che voi facciate",
+    "de": "dass ihr macht",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che loro facciano",
+    "de": "dass sie machen",
+    "cat": "konjugation",
+    "hint": "fare · Congiuntivo presente"
+  },
+  {
+    "it": "che io possa",
+    "de": "dass ich kann",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu possa",
+    "de": "dass du kannst",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui possa",
+    "de": "dass er kann",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi possiamo",
+    "de": "dass wir können",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi possiate",
+    "de": "dass ihr könnt",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro possano",
+    "de": "dass sie können",
+    "cat": "konjugation",
+    "hint": "potere · Congiuntivo presente"
+  },
+  {
+    "it": "che io voglia",
+    "de": "dass ich will",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu voglia",
+    "de": "dass du willst",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui voglia",
+    "de": "dass er will",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi vogliamo",
+    "de": "dass wir wollen",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi vogliate",
+    "de": "dass ihr wollt",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro vogliano",
+    "de": "dass sie wollen",
+    "cat": "konjugation",
+    "hint": "volere · Congiuntivo presente"
+  },
+  {
+    "it": "che io debba",
+    "de": "dass ich muss",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu debba",
+    "de": "dass du musst",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui debba",
+    "de": "dass er muss",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi dobbiamo",
+    "de": "dass wir müssen",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi dobbiate",
+    "de": "dass ihr müsst",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro debbano",
+    "de": "dass sie müssen",
+    "cat": "konjugation",
+    "hint": "dovere · Congiuntivo presente"
+  },
+  {
+    "it": "che io metta",
+    "de": "dass ich stelle/lege",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che tu metta",
+    "de": "dass du stellst/legst",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che lui metta",
+    "de": "dass er stellt/legt",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che noi mettiamo",
+    "de": "dass wir stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che voi mettiate",
+    "de": "dass ihr stellt/legt",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che loro mettano",
+    "de": "dass sie stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Congiuntivo"
+  },
+  {
+    "it": "che io esca",
+    "de": "dass ich ausgehe",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "che tu esca",
+    "de": "dass du ausgehst",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "che lui esca",
+    "de": "dass er ausgeht",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "che noi usciamo",
+    "de": "dass wir ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "che voi usciate",
+    "de": "dass ihr ausgeht",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "che loro escano",
+    "de": "dass sie ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Congiuntivo"
+  },
+  {
+    "it": "io sarei",
+    "de": "ich wäre",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "tu saresti",
+    "de": "du wärst",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "lui sarebbe",
+    "de": "er wäre",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "noi saremmo",
+    "de": "wir wären",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "voi sareste",
+    "de": "ihr wärt",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "loro sarebbero",
+    "de": "sie wären",
+    "cat": "konjugation",
+    "hint": "essere · Condizionale presente"
+  },
+  {
+    "it": "io avrei",
+    "de": "ich hätte",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "tu avresti",
+    "de": "du hättest",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "lui avrebbe",
+    "de": "er hätte",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "noi avremmo",
+    "de": "wir hätten",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "voi avreste",
+    "de": "ihr hättet",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "loro avrebbero",
+    "de": "sie hätten",
+    "cat": "konjugation",
+    "hint": "avere · Condizionale presente"
+  },
+  {
+    "it": "io farei",
+    "de": "ich würde machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "tu faresti",
+    "de": "du würdest machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "lui farebbe",
+    "de": "er würde machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "noi faremmo",
+    "de": "wir würden machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "voi fareste",
+    "de": "ihr würdet machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "loro farebbero",
+    "de": "sie würden machen",
+    "cat": "konjugation",
+    "hint": "fare · Condizionale presente"
+  },
+  {
+    "it": "io andrei",
+    "de": "ich würde gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "tu andresti",
+    "de": "du würdest gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "lui andrebbe",
+    "de": "er würde gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "noi andremmo",
+    "de": "wir würden gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "voi andreste",
+    "de": "ihr würdet gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "loro andrebbero",
+    "de": "sie würden gehen",
+    "cat": "konjugation",
+    "hint": "andare · Condizionale presente"
+  },
+  {
+    "it": "io vorrei",
+    "de": "ich würde gerne / ich möchte",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale (molto usato!)"
+  },
+  {
+    "it": "tu vorresti",
+    "de": "du würdest gerne / du möchtest",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale presente"
+  },
+  {
+    "it": "lui vorrebbe",
+    "de": "er würde gerne / er möchte",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale presente"
+  },
+  {
+    "it": "noi vorremmo",
+    "de": "wir würden gerne / wir möchten",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale presente"
+  },
+  {
+    "it": "voi vorreste",
+    "de": "ihr würdet gerne / ihr möchtet",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale presente"
+  },
+  {
+    "it": "loro vorrebbero",
+    "de": "sie würden gerne / sie möchten",
+    "cat": "konjugation",
+    "hint": "volere · Condizionale presente"
+  },
+  {
+    "it": "io potrei",
+    "de": "ich könnte",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "tu potresti",
+    "de": "du könntest",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "lui potrebbe",
+    "de": "er könnte",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "noi potremmo",
+    "de": "wir könnten",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "voi potreste",
+    "de": "ihr könntet",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "loro potrebbero",
+    "de": "sie könnten",
+    "cat": "konjugation",
+    "hint": "potere · Condizionale presente"
+  },
+  {
+    "it": "io dovrei",
+    "de": "ich sollte",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "tu dovresti",
+    "de": "du solltest",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "lui dovrebbe",
+    "de": "er sollte",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "noi dovremmo",
+    "de": "wir sollten",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "voi dovreste",
+    "de": "ihr solltet",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "loro dovrebbero",
+    "de": "sie sollten",
+    "cat": "konjugation",
+    "hint": "dovere · Condizionale presente"
+  },
+  {
+    "it": "io metterei",
+    "de": "ich würde stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "tu metteresti",
+    "de": "du würdest stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "lui metterebbe",
+    "de": "er würde stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "noi metteremmo",
+    "de": "wir würden stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "voi mettereste",
+    "de": "ihr würdet stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "loro metterebbero",
+    "de": "sie würden stellen/legen",
+    "cat": "konjugation",
+    "hint": "mettere · Condizionale"
+  },
+  {
+    "it": "io uscirei",
+    "de": "ich würde ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "tu usciresti",
+    "de": "du würdest ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "lui uscirebbe",
+    "de": "er würde ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "noi usciremmo",
+    "de": "wir würden ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "voi uscireste",
+    "de": "ihr würdet ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "loro uscirebbero",
+    "de": "sie würden ausgehen",
+    "cat": "konjugation",
+    "hint": "uscire · Condizionale"
+  },
+  {
+    "it": "io ho visto",
+    "de": "ich habe gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "tu hai visto",
+    "de": "du hast gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "lui ha visto",
+    "de": "er hat gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo visto",
+    "de": "wir haben gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "voi avete visto",
+    "de": "ihr habt gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "loro hanno visto",
+    "de": "sie haben gesehen",
+    "cat": "konjugation",
+    "hint": "vedere · Passato prossimo"
+  },
+  {
+    "it": "io vedevo",
+    "de": "ich sah",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "tu vedevi",
+    "de": "du sahst",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "lui vedeva",
+    "de": "er sah",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "noi vedevamo",
+    "de": "wir sahen",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "voi vedevate",
+    "de": "ihr saht",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "loro vedevano",
+    "de": "sie sahen",
+    "cat": "konjugation",
+    "hint": "vedere · Imperfetto"
+  },
+  {
+    "it": "io vedrò",
+    "de": "ich werde sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "tu vedrai",
+    "de": "du wirst sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "lui vedrà",
+    "de": "er wird sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "noi vedremo",
+    "de": "wir werden sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "voi vedrete",
+    "de": "ihr werdet sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "loro vedranno",
+    "de": "sie werden sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Futuro semplice"
+  },
+  {
+    "it": "che io veda",
+    "de": "dass ich sehe",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu veda",
+    "de": "dass du siehst",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui veda",
+    "de": "dass er sieht",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi vediamo",
+    "de": "dass wir sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi vediate",
+    "de": "dass ihr seht",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro vedano",
+    "de": "dass sie sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Congiuntivo presente"
+  },
+  {
+    "it": "io vedrei",
+    "de": "ich würde sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "tu vedresti",
+    "de": "du würdest sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "lui vedrebbe",
+    "de": "er würde sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "noi vedremmo",
+    "de": "wir würden sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "voi vedreste",
+    "de": "ihr würdet sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "loro vedrebbero",
+    "de": "sie würden sehen",
+    "cat": "konjugation",
+    "hint": "vedere · Condizionale presente"
+  },
+  {
+    "it": "io ho letto",
+    "de": "ich habe gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "tu hai letto",
+    "de": "du hast gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "lui ha letto",
+    "de": "er hat gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo letto",
+    "de": "wir haben gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "voi avete letto",
+    "de": "ihr habt gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "loro hanno letto",
+    "de": "sie haben gelesen",
+    "cat": "konjugation",
+    "hint": "leggere · Passato prossimo"
+  },
+  {
+    "it": "io leggevo",
+    "de": "ich las",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "tu leggevi",
+    "de": "du last",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "lui leggeva",
+    "de": "er las",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "noi leggevamo",
+    "de": "wir lasen",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "voi leggevate",
+    "de": "ihr last",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "loro leggevano",
+    "de": "sie lasen",
+    "cat": "konjugation",
+    "hint": "leggere · Imperfetto"
+  },
+  {
+    "it": "io leggerò",
+    "de": "ich werde lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "tu leggerai",
+    "de": "du wirst lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "lui leggerà",
+    "de": "er wird lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "noi leggeremo",
+    "de": "wir werden lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "voi leggerete",
+    "de": "ihr werdet lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "loro leggeranno",
+    "de": "sie werden lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Futuro semplice"
+  },
+  {
+    "it": "che io legga",
+    "de": "dass ich lese",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu legga",
+    "de": "dass du liest",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui legga",
+    "de": "dass er liest",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi leggiamo",
+    "de": "dass wir lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi leggiate",
+    "de": "dass ihr lest",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro leggano",
+    "de": "dass sie lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Congiuntivo presente"
+  },
+  {
+    "it": "io leggerei",
+    "de": "ich würde lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "tu leggeresti",
+    "de": "du würdest lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "lui leggerebbe",
+    "de": "er würde lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "noi leggeremmo",
+    "de": "wir würden lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "voi leggereste",
+    "de": "ihr würdet lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "loro leggerebbero",
+    "de": "sie würden lesen",
+    "cat": "konjugation",
+    "hint": "leggere · Condizionale presente"
+  },
+  {
+    "it": "io ho preso",
+    "de": "ich habe genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "tu hai preso",
+    "de": "du hast genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "lui ha preso",
+    "de": "er hat genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "noi abbiamo preso",
+    "de": "wir haben genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "voi avete preso",
+    "de": "ihr habt genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "loro hanno preso",
+    "de": "sie haben genommen",
+    "cat": "konjugation",
+    "hint": "prendere · Passato prossimo"
+  },
+  {
+    "it": "io prendevo",
+    "de": "ich nahm",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "tu prendevi",
+    "de": "du nahmst",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "lui prendeva",
+    "de": "er nahm",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "noi prendevamo",
+    "de": "wir nahmen",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "voi prendevate",
+    "de": "ihr nahmt",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "loro prendevano",
+    "de": "sie nahmen",
+    "cat": "konjugation",
+    "hint": "prendere · Imperfetto"
+  },
+  {
+    "it": "io prenderò",
+    "de": "ich werde nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "tu prenderai",
+    "de": "du wirst nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "lui prenderà",
+    "de": "er wird nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "noi prenderemo",
+    "de": "wir werden nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "voi prenderete",
+    "de": "ihr werdet nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "loro prenderanno",
+    "de": "sie werden nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Futuro semplice"
+  },
+  {
+    "it": "che io prenda",
+    "de": "dass ich nehme",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "che tu prenda",
+    "de": "dass du nimmst",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "che lui prenda",
+    "de": "dass er nimmt",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "che noi prendiamo",
+    "de": "dass wir nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "che voi prendiate",
+    "de": "dass ihr nehmt",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "che loro prendano",
+    "de": "dass sie nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Congiuntivo presente"
+  },
+  {
+    "it": "io prenderei",
+    "de": "ich würde nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  },
+  {
+    "it": "tu prenderesti",
+    "de": "du würdest nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  },
+  {
+    "it": "lui prenderebbe",
+    "de": "er würde nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  },
+  {
+    "it": "noi prenderemmo",
+    "de": "wir würden nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  },
+  {
+    "it": "voi prendereste",
+    "de": "ihr würdet nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  },
+  {
+    "it": "loro prenderebbero",
+    "de": "sie würden nehmen",
+    "cat": "konjugation",
+    "hint": "prendere · Condizionale presente"
+  }
+]
