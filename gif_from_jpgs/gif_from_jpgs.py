@@ -19,5 +19,5 @@ frames[0].save(
     save_all=True,
     append_images=frames[1:],
     duration=1000,
-    loop=0
+    loop=1
 )
