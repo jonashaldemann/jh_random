@@ -1,0 +1,5759 @@
+[
+  {
+    "it": "la casa",
+    "de": "das Haus",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'appartamento",
+    "de": "die Wohnung",
+    "cat": "nomen"
+  },
+  {
+    "it": "la stanza",
+    "de": "das Zimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cucina",
+    "de": "die Küche",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bagno",
+    "de": "das Bad",
+    "cat": "nomen"
+  },
+  {
+    "it": "il letto",
+    "de": "das Bett",
+    "cat": "nomen"
+  },
+  {
+    "it": "la finestra",
+    "de": "das Fenster",
+    "cat": "nomen"
+  },
+  {
+    "it": "la porta",
+    "de": "die Tür",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tavolo",
+    "de": "der Tisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sedia",
+    "de": "der Stuhl",
+    "cat": "nomen"
+  },
+  {
+    "it": "il divano",
+    "de": "das Sofa",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lampada",
+    "de": "die Lampe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il frigorifero",
+    "de": "der Kühlschrank",
+    "cat": "nomen"
+  },
+  {
+    "it": "il forno",
+    "de": "der Ofen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lavatrice",
+    "de": "die Waschmaschine",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo specchio",
+    "de": "der Spiegel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tappeto",
+    "de": "der Teppich",
+    "cat": "nomen"
+  },
+  {
+    "it": "le scale",
+    "de": "die Treppe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giardino",
+    "de": "der Garten",
+    "cat": "nomen"
+  },
+  {
+    "it": "il balcone",
+    "de": "der Balkon",
+    "cat": "nomen"
+  },
+  {
+    "it": "la famiglia",
+    "de": "die Familie",
+    "cat": "nomen"
+  },
+  {
+    "it": "il padre",
+    "de": "der Vater",
+    "cat": "nomen"
+  },
+  {
+    "it": "la madre",
+    "de": "die Mutter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il figlio",
+    "de": "der Sohn",
+    "cat": "nomen"
+  },
+  {
+    "it": "la figlia",
+    "de": "die Tochter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fratello",
+    "de": "der Bruder",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sorella",
+    "de": "die Schwester",
+    "cat": "nomen"
+  },
+  {
+    "it": "il nonno",
+    "de": "der Grossvater",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nonna",
+    "de": "die Grossmutter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il marito",
+    "de": "der Ehemann",
+    "cat": "nomen"
+  },
+  {
+    "it": "la moglie",
+    "de": "die Ehefrau",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo zio",
+    "de": "der Onkel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zia",
+    "de": "die Tante",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cugino",
+    "de": "der Cousin",
+    "cat": "nomen"
+  },
+  {
+    "it": "il nipote",
+    "de": "der Neffe / Enkel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nipote",
+    "de": "die Nichte / Enkelin",
+    "cat": "nomen"
+  },
+  {
+    "it": "la suocera",
+    "de": "die Schwiegermutter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il suocero",
+    "de": "der Schwiegervater",
+    "cat": "nomen"
+  },
+  {
+    "it": "la testa",
+    "de": "der Kopf",
+    "cat": "nomen"
+  },
+  {
+    "it": "il viso",
+    "de": "das Gesicht",
+    "cat": "nomen"
+  },
+  {
+    "it": "gli occhi",
+    "de": "die Augen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il naso",
+    "de": "die Nase",
+    "cat": "nomen"
+  },
+  {
+    "it": "la bocca",
+    "de": "der Mund",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orecchio",
+    "de": "das Ohr",
+    "cat": "nomen"
+  },
+  {
+    "it": "i capelli",
+    "de": "die Haare",
+    "cat": "nomen"
+  },
+  {
+    "it": "il collo",
+    "de": "der Hals",
+    "cat": "nomen"
+  },
+  {
+    "it": "la spalla",
+    "de": "die Schulter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il braccio",
+    "de": "der Arm",
+    "cat": "nomen"
+  },
+  {
+    "it": "la mano",
+    "de": "die Hand",
+    "cat": "nomen"
+  },
+  {
+    "it": "il dito",
+    "de": "der Finger",
+    "cat": "nomen"
+  },
+  {
+    "it": "il petto",
+    "de": "die Brust",
+    "cat": "nomen"
+  },
+  {
+    "it": "la schiena",
+    "de": "der Rücken",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ventre",
+    "de": "der Bauch",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gamba",
+    "de": "das Bein",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ginocchio",
+    "de": "das Knie",
+    "cat": "nomen"
+  },
+  {
+    "it": "il piede",
+    "de": "der Fuss",
+    "cat": "nomen"
+  },
+  {
+    "it": "il dente",
+    "de": "der Zahn",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lingua",
+    "de": "die Zunge",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pane",
+    "de": "das Brot",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pasta",
+    "de": "die Nudeln",
+    "cat": "nomen"
+  },
+  {
+    "it": "il riso",
+    "de": "der Reis",
+    "cat": "nomen"
+  },
+  {
+    "it": "la carne",
+    "de": "das Fleisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pesce",
+    "de": "der Fisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pollo",
+    "de": "das Hähnchen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la verdura",
+    "de": "das Gemüse",
+    "cat": "nomen"
+  },
+  {
+    "it": "la frutta",
+    "de": "das Obst",
+    "cat": "nomen"
+  },
+  {
+    "it": "la mela",
+    "de": "der Apfel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pera",
+    "de": "die Birne",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'arancia",
+    "de": "die Orange",
+    "cat": "nomen"
+  },
+  {
+    "it": "il limone",
+    "de": "die Zitrone",
+    "cat": "nomen"
+  },
+  {
+    "it": "le fragole",
+    "de": "die Erdbeeren",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pomodoro",
+    "de": "die Tomate",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cipolla",
+    "de": "die Zwiebel",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aglio",
+    "de": "der Knoblauch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il formaggio",
+    "de": "der Käse",
+    "cat": "nomen"
+  },
+  {
+    "it": "le uova",
+    "de": "die Eier",
+    "cat": "nomen"
+  },
+  {
+    "it": "il burro",
+    "de": "die Butter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il latte",
+    "de": "die Milch",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo zucchero",
+    "de": "der Zucker",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sale",
+    "de": "das Salz",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'olio",
+    "de": "das Öl",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'acqua",
+    "de": "das Wasser",
+    "cat": "nomen"
+  },
+  {
+    "it": "il vino",
+    "de": "der Wein",
+    "cat": "nomen"
+  },
+  {
+    "it": "la birra",
+    "de": "das Bier",
+    "cat": "nomen"
+  },
+  {
+    "it": "il caffè",
+    "de": "der Kaffee",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tè",
+    "de": "der Tee",
+    "cat": "nomen"
+  },
+  {
+    "it": "il succo",
+    "de": "der Saft",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pizza",
+    "de": "die Pizza",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gelato",
+    "de": "das Eis",
+    "cat": "nomen"
+  },
+  {
+    "it": "la torta",
+    "de": "der Kuchen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il biscotto",
+    "de": "der Keks",
+    "cat": "nomen"
+  },
+  {
+    "it": "la città",
+    "de": "die Stadt",
+    "cat": "nomen"
+  },
+  {
+    "it": "il paese",
+    "de": "das Land",
+    "cat": "nomen"
+  },
+  {
+    "it": "la strada",
+    "de": "die Strasse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ponte",
+    "de": "die Brücke",
+    "cat": "nomen"
+  },
+  {
+    "it": "la piazza",
+    "de": "der Platz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mercato",
+    "de": "der Markt",
+    "cat": "nomen"
+  },
+  {
+    "it": "il negozio",
+    "de": "das Geschäft",
+    "cat": "nomen"
+  },
+  {
+    "it": "il supermercato",
+    "de": "der Supermarkt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la farmacia",
+    "de": "die Apotheke",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ospedale",
+    "de": "das Krankenhaus",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scuola",
+    "de": "die Schule",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'università",
+    "de": "die Universität",
+    "cat": "nomen"
+  },
+  {
+    "it": "la banca",
+    "de": "die Bank",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ristorante",
+    "de": "das Restaurant",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bar",
+    "de": "die Bar",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'hotel",
+    "de": "das Hotel",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aeroporto",
+    "de": "der Flughafen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la stazione",
+    "de": "der Bahnhof",
+    "cat": "nomen"
+  },
+  {
+    "it": "il porto",
+    "de": "der Hafen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la macchina",
+    "de": "das Auto",
+    "cat": "nomen"
+  },
+  {
+    "it": "il treno",
+    "de": "der Zug",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'autobus",
+    "de": "der Bus",
+    "cat": "nomen"
+  },
+  {
+    "it": "la metropolitana",
+    "de": "die U-Bahn",
+    "cat": "nomen"
+  },
+  {
+    "it": "la bicicletta",
+    "de": "das Fahrrad",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aereo",
+    "de": "das Flugzeug",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nave",
+    "de": "das Schiff",
+    "cat": "nomen"
+  },
+  {
+    "it": "il taxi",
+    "de": "das Taxi",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mare",
+    "de": "das Meer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la montagna",
+    "de": "der Berg",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fiume",
+    "de": "der Fluss",
+    "cat": "nomen"
+  },
+  {
+    "it": "il lago",
+    "de": "der See",
+    "cat": "nomen"
+  },
+  {
+    "it": "la foresta",
+    "de": "der Wald",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bosco",
+    "de": "der Wald",
+    "cat": "nomen"
+  },
+  {
+    "it": "la spiaggia",
+    "de": "der Strand",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'isola",
+    "de": "die Insel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sole",
+    "de": "die Sonne",
+    "cat": "nomen"
+  },
+  {
+    "it": "la luna",
+    "de": "der Mond",
+    "cat": "nomen"
+  },
+  {
+    "it": "le stelle",
+    "de": "die Sterne",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cielo",
+    "de": "der Himmel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nuvola",
+    "de": "die Wolke",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pioggia",
+    "de": "der Regen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la neve",
+    "de": "der Schnee",
+    "cat": "nomen"
+  },
+  {
+    "it": "il vento",
+    "de": "der Wind",
+    "cat": "nomen"
+  },
+  {
+    "it": "il temporale",
+    "de": "das Gewitter",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'alba",
+    "de": "die Morgendämmerung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tramonto",
+    "de": "der Sonnenuntergang",
+    "cat": "nomen"
+  },
+  {
+    "it": "il secondo",
+    "de": "die Sekunde",
+    "cat": "nomen"
+  },
+  {
+    "it": "il minuto",
+    "de": "die Minute",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ora",
+    "de": "die Stunde",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giorno",
+    "de": "der Tag",
+    "cat": "nomen"
+  },
+  {
+    "it": "la settimana",
+    "de": "die Woche",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mese",
+    "de": "der Monat",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'anno",
+    "de": "das Jahr",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mattino",
+    "de": "der Morgen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pomeriggio",
+    "de": "der Nachmittag",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sera",
+    "de": "der Abend",
+    "cat": "nomen"
+  },
+  {
+    "it": "la notte",
+    "de": "die Nacht",
+    "cat": "nomen"
+  },
+  {
+    "it": "oggi",
+    "de": "heute",
+    "cat": "nomen"
+  },
+  {
+    "it": "ieri",
+    "de": "gestern",
+    "cat": "nomen"
+  },
+  {
+    "it": "domani",
+    "de": "morgen",
+    "cat": "nomen"
+  },
+  {
+    "it": "adesso",
+    "de": "jetzt",
+    "cat": "nomen"
+  },
+  {
+    "it": "il lavoro",
+    "de": "die Arbeit",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ufficio",
+    "de": "das Büro",
+    "cat": "nomen"
+  },
+  {
+    "it": "il medico",
+    "de": "der Arzt / die Ärztin",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'infermiere",
+    "de": "der Krankenpfleger",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'avvocato",
+    "de": "der Anwalt",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'insegnante",
+    "de": "der Lehrer / die Lehrerin",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo studente",
+    "de": "der Student",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cuoco",
+    "de": "der Koch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cameriere",
+    "de": "der Kellner",
+    "cat": "nomen"
+  },
+  {
+    "it": "il poliziotto",
+    "de": "der Polizist",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pompiere",
+    "de": "der Feuerwehrmann",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ingegnere",
+    "de": "der Ingenieur",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'architetto",
+    "de": "der Architekt",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giornalista",
+    "de": "der Journalist",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'artista",
+    "de": "der Künstler / die Künstlerin",
+    "cat": "nomen"
+  },
+  {
+    "it": "il musicista",
+    "de": "der Musiker",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo scrittore",
+    "de": "der Schriftsteller",
+    "cat": "nomen"
+  },
+  {
+    "it": "il contadino",
+    "de": "der Bauer",
+    "cat": "nomen"
+  },
+  {
+    "it": "grande",
+    "de": "gross",
+    "cat": "adjektive"
+  },
+  {
+    "it": "piccolo",
+    "de": "klein",
+    "cat": "adjektive"
+  },
+  {
+    "it": "lungo",
+    "de": "lang",
+    "cat": "adjektive"
+  },
+  {
+    "it": "corto",
+    "de": "kurz",
+    "cat": "adjektive"
+  },
+  {
+    "it": "alto",
+    "de": "hoch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "basso",
+    "de": "niedrig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "largo",
+    "de": "breit",
+    "cat": "adjektive"
+  },
+  {
+    "it": "stretto",
+    "de": "schmal",
+    "cat": "adjektive"
+  },
+  {
+    "it": "pesante",
+    "de": "schwer",
+    "cat": "adjektive"
+  },
+  {
+    "it": "leggero",
+    "de": "leicht",
+    "cat": "adjektive"
+  },
+  {
+    "it": "vecchio",
+    "de": "alt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "giovane",
+    "de": "jung",
+    "cat": "adjektive"
+  },
+  {
+    "it": "nuovo",
+    "de": "neu",
+    "cat": "adjektive"
+  },
+  {
+    "it": "antico",
+    "de": "alt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "bello",
+    "de": "schön",
+    "cat": "adjektive"
+  },
+  {
+    "it": "brutto",
+    "de": "hässlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "buono",
+    "de": "gut",
+    "cat": "adjektive"
+  },
+  {
+    "it": "cattivo",
+    "de": "schlecht",
+    "cat": "adjektive"
+  },
+  {
+    "it": "felice",
+    "de": "glücklich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "triste",
+    "de": "traurig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "arrabbiato",
+    "de": "wütend",
+    "cat": "adjektive"
+  },
+  {
+    "it": "stanco",
+    "de": "müde",
+    "cat": "adjektive"
+  },
+  {
+    "it": "sveglio",
+    "de": "wach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "caldo",
+    "de": "warm",
+    "cat": "adjektive"
+  },
+  {
+    "it": "freddo",
+    "de": "kalt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "pieno",
+    "de": "voll",
+    "cat": "adjektive"
+  },
+  {
+    "it": "vuoto",
+    "de": "leer",
+    "cat": "adjektive"
+  },
+  {
+    "it": "aperto",
+    "de": "offen",
+    "cat": "adjektive"
+  },
+  {
+    "it": "chiuso",
+    "de": "geschlossen",
+    "cat": "adjektive"
+  },
+  {
+    "it": "difficile",
+    "de": "schwierig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "facile",
+    "de": "einfach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "veloce",
+    "de": "schnell",
+    "cat": "adjektive"
+  },
+  {
+    "it": "lento",
+    "de": "langsam",
+    "cat": "adjektive"
+  },
+  {
+    "it": "forte",
+    "de": "stark",
+    "cat": "adjektive"
+  },
+  {
+    "it": "debole",
+    "de": "schwach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "ricco",
+    "de": "reich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "povero",
+    "de": "arm",
+    "cat": "adjektive"
+  },
+  {
+    "it": "libero",
+    "de": "frei",
+    "cat": "adjektive"
+  },
+  {
+    "it": "occupato",
+    "de": "besetzt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "simpatico",
+    "de": "sympathisch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "antipatico",
+    "de": "unsympathisch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "gentile",
+    "de": "freundlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "educato",
+    "de": "höflich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "maleducato",
+    "de": "unhöflich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "onesto",
+    "de": "ehrlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "disonesto",
+    "de": "unehrlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "coraggioso",
+    "de": "mutig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "timido",
+    "de": "schüchtern",
+    "cat": "adjektive"
+  },
+  {
+    "it": "curioso",
+    "de": "neugierig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "noioso",
+    "de": "langweilig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "interessante",
+    "de": "interessant",
+    "cat": "adjektive"
+  },
+  {
+    "it": "divertente",
+    "de": "lustig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "grande",
+    "de": "gross",
+    "cat": "adjektive"
+  },
+  {
+    "it": "allegro",
+    "de": "fröhlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "probabilmente",
+    "de": "wahrscheinlich ",
+    "cat": "adjektive"
+  },
+  {
+    "it": "oggi",
+    "de": "heute",
+    "cat": "adjektive"
+  },
+  {
+    "it": "di solito",
+    "de": "gewöhnlich ",
+    "cat": "adjektive"
+  },
+  {
+    "it": "troppo",
+    "de": "zu viel",
+    "cat": "adjektive"
+  },
+  {
+    "it": "velocemente",
+    "de": "schnell ",
+    "cat": "adjektive"
+  },
+  {
+    "it": "male",
+    "de": "schlecht",
+    "cat": "adjektive"
+  },
+  {
+    "it": "fuori",
+    "de": "draussen ",
+    "cat": "adjektive"
+  },
+  {
+    "it": "lentamente",
+    "de": "langsam",
+    "cat": "adjektive"
+  },
+  {
+    "it": "dolce",
+    "de": "süss",
+    "cat": "adjektive"
+  },
+  {
+    "it": "semplice",
+    "de": "einfach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "forte",
+    "de": "stark",
+    "cat": "adjektive"
+  },
+  {
+    "it": "particolarmente",
+    "de": "besonders",
+    "cat": "adjektive"
+  },
+  {
+    "it": "spesso",
+    "de": "oft",
+    "cat": "adjektive"
+  },
+  {
+    "it": "altrettanto",
+    "de": "ebenfalls",
+    "cat": "adjektive"
+  },
+  {
+    "it": "diversamente",
+    "de": "anders",
+    "cat": "adjektive"
+  },
+  {
+    "it": "volentieri",
+    "de": "gerne",
+    "cat": "adjektive"
+  },
+  {
+    "it": "altrimenti",
+    "de": "sonst",
+    "cat": "adjektive"
+  },
+  {
+    "it": "quasi",
+    "de": "fast",
+    "cat": "adjektive"
+  },
+  {
+    "it": "quantomeno",
+    "de": "wenigstens",
+    "cat": "adjektive"
+  },
+  {
+    "it": "perlomeno",
+    "de": "zumindest",
+    "cat": "adjektive"
+  },
+  {
+    "it": "oltremodo",
+    "de": "überaus",
+    "cat": "adjektive"
+  },
+  {
+    "it": "ancora",
+    "de": "noch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "a malapena",
+    "de": "kaum",
+    "cat": "adjektive"
+  },
+  {
+    "it": "molto",
+    "de": "sehr",
+    "cat": "adjektive"
+  },
+  {
+    "it": "poco",
+    "de": "wenig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "senza dubbio",
+    "de": "ohne Zweifel",
+    "cat": "adjektive"
+  },
+  {
+    "it": "forse",
+    "de": "vielleicht",
+    "cat": "adjektive"
+  },
+  {
+    "it": "ecco",
+    "de": "hier ist",
+    "cat": "adjektive"
+  },
+  {
+    "it": "certo",
+    "de": "bestimmt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "essere",
+    "de": "sein",
+    "cat": "verben",
+    "hint": "essere → sono, sei, è…"
+  },
+  {
+    "it": "avere",
+    "de": "haben",
+    "cat": "verben",
+    "hint": "avere → ho, hai, ha…"
+  },
+  {
+    "it": "fare",
+    "de": "machen",
+    "cat": "verben",
+    "hint": "fare → faccio, fai, fa…"
+  },
+  {
+    "it": "andare",
+    "de": "gehen",
+    "cat": "verben",
+    "hint": "andare → vado, vai, va…"
+  },
+  {
+    "it": "venire",
+    "de": "kommen",
+    "cat": "verben",
+    "hint": "venire → vengo, vieni, viene…"
+  },
+  {
+    "it": "stare",
+    "de": "sich befinden",
+    "cat": "verben",
+    "hint": "stare → sto, stai, sta…"
+  },
+  {
+    "it": "dire",
+    "de": "sagen",
+    "cat": "verben",
+    "hint": "dire → dico, dici, dice…"
+  },
+  {
+    "it": "vedere",
+    "de": "sehen",
+    "cat": "verben"
+  },
+  {
+    "it": "sapere",
+    "de": "wissen",
+    "cat": "verben"
+  },
+  {
+    "it": "volere",
+    "de": "wollen",
+    "cat": "verben"
+  },
+  {
+    "it": "potere",
+    "de": "können",
+    "cat": "verben"
+  },
+  {
+    "it": "dovere",
+    "de": "müssen",
+    "cat": "verben"
+  },
+  {
+    "it": "parlare",
+    "de": "sprechen",
+    "cat": "verben"
+  },
+  {
+    "it": "mangiare",
+    "de": "essen",
+    "cat": "verben"
+  },
+  {
+    "it": "bere",
+    "de": "trinken",
+    "cat": "verben"
+  },
+  {
+    "it": "dormire",
+    "de": "schlafen",
+    "cat": "verben"
+  },
+  {
+    "it": "lavorare",
+    "de": "arbeiten",
+    "cat": "verben"
+  },
+  {
+    "it": "studiare",
+    "de": "studieren",
+    "cat": "verben"
+  },
+  {
+    "it": "leggere",
+    "de": "lesen",
+    "cat": "verben"
+  },
+  {
+    "it": "scrivere",
+    "de": "schreiben",
+    "cat": "verben"
+  },
+  {
+    "it": "ascoltare",
+    "de": "zuhören",
+    "cat": "verben"
+  },
+  {
+    "it": "guardare",
+    "de": "anschauen",
+    "cat": "verben"
+  },
+  {
+    "it": "comprare",
+    "de": "kaufen",
+    "cat": "verben"
+  },
+  {
+    "it": "vendere",
+    "de": "verkaufen",
+    "cat": "verben"
+  },
+  {
+    "it": "pagare",
+    "de": "bezahlen",
+    "cat": "verben"
+  },
+  {
+    "it": "prendere",
+    "de": "nehmen",
+    "cat": "verben"
+  },
+  {
+    "it": "portare",
+    "de": "tragen",
+    "cat": "verben"
+  },
+  {
+    "it": "mettere",
+    "de": "legen / stellen / setzen",
+    "cat": "verben"
+  },
+  {
+    "it": "aprire",
+    "de": "öffnen",
+    "cat": "verben"
+  },
+  {
+    "it": "chiudere",
+    "de": "schliessen",
+    "cat": "verben"
+  },
+  {
+    "it": "partire",
+    "de": "abfahren",
+    "cat": "verben"
+  },
+  {
+    "it": "arrivare",
+    "de": "ankommen",
+    "cat": "verben"
+  },
+  {
+    "it": "tornare",
+    "de": "zurückkehren",
+    "cat": "verben"
+  },
+  {
+    "it": "uscire",
+    "de": "hinausgehen",
+    "cat": "verben"
+  },
+  {
+    "it": "entrare",
+    "de": "hineingehen",
+    "cat": "verben"
+  },
+  {
+    "it": "salire",
+    "de": "einsteigen",
+    "cat": "verben"
+  },
+  {
+    "it": "scendere",
+    "de": "hinuntersteigen",
+    "cat": "verben"
+  },
+  {
+    "it": "camminare",
+    "de": "spazieren",
+    "cat": "verben"
+  },
+  {
+    "it": "correre",
+    "de": "rennen",
+    "cat": "verben"
+  },
+  {
+    "it": "nuotare",
+    "de": "schwimmen",
+    "cat": "verben"
+  },
+  {
+    "it": "giocare",
+    "de": "spielen",
+    "cat": "verben"
+  },
+  {
+    "it": "ballare",
+    "de": "tanzen",
+    "cat": "verben"
+  },
+  {
+    "it": "cantare",
+    "de": "singen",
+    "cat": "verben"
+  },
+  {
+    "it": "cucinare",
+    "de": "kochen",
+    "cat": "verben"
+  },
+  {
+    "it": "pulire",
+    "de": "putzen",
+    "cat": "verben"
+  },
+  {
+    "it": "lavare",
+    "de": "waschen",
+    "cat": "verben"
+  },
+  {
+    "it": "aiutare",
+    "de": "helfen",
+    "cat": "verben"
+  },
+  {
+    "it": "chiamare",
+    "de": "anrufen",
+    "cat": "verben"
+  },
+  {
+    "it": "rispondere",
+    "de": "antworten",
+    "cat": "verben"
+  },
+  {
+    "it": "chiedere",
+    "de": "fragen",
+    "cat": "verben"
+  },
+  {
+    "it": "capire",
+    "de": "verstehen",
+    "cat": "verben"
+  },
+  {
+    "it": "imparare",
+    "de": "lernen",
+    "cat": "verben"
+  },
+  {
+    "it": "insegnare",
+    "de": "lehren",
+    "cat": "verben"
+  },
+  {
+    "it": "cominciare",
+    "de": "beginnen",
+    "cat": "verben"
+  },
+  {
+    "it": "finire",
+    "de": "beenden",
+    "cat": "verben"
+  },
+  {
+    "it": "aspettare",
+    "de": "warten",
+    "cat": "verben"
+  },
+  {
+    "it": "cercare",
+    "de": "suchen",
+    "cat": "verben"
+  },
+  {
+    "it": "trovare",
+    "de": "finden",
+    "cat": "verben"
+  },
+  {
+    "it": "perdere",
+    "de": "verlieren",
+    "cat": "verben"
+  },
+  {
+    "it": "vincere",
+    "de": "gewinnen",
+    "cat": "verben"
+  },
+  {
+    "it": "incontrare",
+    "de": "treffen",
+    "cat": "verben"
+  },
+  {
+    "it": "ricordare",
+    "de": "erinnern",
+    "cat": "verben"
+  },
+  {
+    "it": "dimenticare",
+    "de": "vergessen",
+    "cat": "nomen"
+  },
+  {
+    "it": "pensare",
+    "de": "denken",
+    "cat": "verben"
+  },
+  {
+    "it": "credere",
+    "de": "glauben",
+    "cat": "verben"
+  },
+  {
+    "it": "sperare",
+    "de": "hoffen",
+    "cat": "verben"
+  },
+  {
+    "it": "amare",
+    "de": "lieben",
+    "cat": "verben"
+  },
+  {
+    "it": "odiare",
+    "de": "hassen",
+    "cat": "verben"
+  },
+  {
+    "it": "preferire",
+    "de": "vorziehen",
+    "cat": "verben"
+  },
+  {
+    "it": "sentire",
+    "de": "fühlen",
+    "cat": "verben"
+  },
+  {
+    "it": "toccare",
+    "de": "anfassen",
+    "cat": "verben"
+  },
+  {
+    "it": "sorridere",
+    "de": "lächeln",
+    "cat": "verben"
+  },
+  {
+    "it": "ridere",
+    "de": "lachen",
+    "cat": "verben"
+  },
+  {
+    "it": "piangere",
+    "de": "weinen",
+    "cat": "verben"
+  },
+  {
+    "it": "cadere",
+    "de": "fallen",
+    "cat": "verben"
+  },
+  {
+    "it": "alzarsi",
+    "de": "aufstehen",
+    "cat": "verben"
+  },
+  {
+    "it": "sedersi",
+    "de": "sich setzen",
+    "cat": "verben"
+  },
+  {
+    "it": "vestirsi",
+    "de": "sich anziehen",
+    "cat": "verben"
+  },
+  {
+    "it": "lavarsi",
+    "de": "sich waschen",
+    "cat": "verben"
+  },
+  {
+    "it": "svegliarsi",
+    "de": "aufwachen",
+    "cat": "verben"
+  },
+  {
+    "it": "addormentarsi",
+    "de": "einschlafen",
+    "cat": "verben"
+  },
+  {
+    "it": "Buongiorno!",
+    "de": "Guten Morgen! / Guten Tag!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Buonasera!",
+    "de": "Guten Abend!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Buonanotte!",
+    "de": "Gute Nacht!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Ciao!",
+    "de": "Hallo!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Salve!",
+    "de": "Hallo!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Arrivederci!",
+    "de": "Auf Wiedersehen!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "A presto!",
+    "de": "Bis bald!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "A domani!",
+    "de": "Bis morgen!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Come stai?",
+    "de": "Wie geht es dir? (informell)",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Come sta?",
+    "de": "Wie geht es Ihnen? (formell)",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Sto bene, grazie!",
+    "de": "Mir geht es gut, danke!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Non sto molto bene.",
+    "de": "Es geht mir nicht so gut.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Come ti chiami?",
+    "de": "Wie heisst du?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Mi chiamo…",
+    "de": "Ich heisse…",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Piacere!",
+    "de": "Freut mich!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Di dove sei?",
+    "de": "Woher kommst du?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Sono di…",
+    "de": "Ich komme aus…",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Per favore.",
+    "de": "Bitte.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Grazie mille!",
+    "de": "Vielen Dank!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Prego.",
+    "de": "Bitte sehr",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Mi scusi.",
+    "de": "Entschuldigen Sie.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Scusa.",
+    "de": "Entschuldige.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Non c'è problema.",
+    "de": "Kein Problem.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Di niente.",
+    "de": "Nichts zu danken.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Con piacere!",
+    "de": "Mit Vergnügen!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Non capisco.",
+    "de": "Ich verstehe nicht.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Non ho capito.",
+    "de": "Ich habe nicht verstanden.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Può ripetere?",
+    "de": "Können Sie wiederholen?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Parli più lentamente, per favore.",
+    "de": "Sprechen Sie bitte langsamer.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Parla italiano?",
+    "de": "Sprechen Sie Italienisch?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Parlo un po' di italiano.",
+    "de": "Ich spreche ein bisschen Italienisch.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Come si dice…?",
+    "de": "Wie sagt man…?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Cosa significa…?",
+    "de": "Was bedeutet…?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Puoi aiutarmi?",
+    "de": "Kannst du mir helfen?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Un tavolo per due, per favore.",
+    "de": "Einen Tisch für zwei, bitte.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Il menù, per favore.",
+    "de": "Die Speisekarte, bitte.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Cosa mi consiglia?",
+    "de": "Was empfehlen Sie mir?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Vorrei ordinare.",
+    "de": "Ich möchte bestellen.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Il conto, per favore.",
+    "de": "Die Rechnung, bitte.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "È buonissimo!",
+    "de": "Es ist sehr lecker!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Quanto costa?",
+    "de": "Was kostet das?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "È troppo caro.",
+    "de": "Es ist zu teuer.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Accettate carte di credito?",
+    "de": "Akzeptieren Sie Kreditkarten?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Vorrei comprare…",
+    "de": "Ich möchte … kaufen.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Ce l'avete in…?",
+    "de": "Haben Sie das in…?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Dov'è…?",
+    "de": "Wo ist…?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Come arrivo a…?",
+    "de": "Wie komme ich zu…?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Giri a destra.",
+    "de": "Biegen Sie rechts ab.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Giri a sinistra.",
+    "de": "Biegen Sie links ab.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Vada dritto.",
+    "de": "Gehen Sie geradeaus.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "È lontano?",
+    "de": "Ist es weit?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "È vicino.",
+    "de": "Es ist nah.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "A che ora parte il treno?",
+    "de": "Um wie viel Uhr fährt der Zug ab?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Un biglietto per…",
+    "de": "Eine Fahrkarte nach…",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Aiuto!",
+    "de": "Hilfe!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Chiami un'ambulanza!",
+    "de": "Rufen Sie einen Krankenwagen!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Mi sono perso.",
+    "de": "Ich habe mich verirrt.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Ho bisogno di un medico.",
+    "de": "Ich brauche einen Arzt.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Dov'è la farmacia?",
+    "de": "Wo ist die Apotheke?",
+    "cat": "phrasen"
+  },
+  {
+    "it": "il rosso",
+    "de": "das Rot",
+    "cat": "nomen"
+  },
+  {
+    "it": "il blu",
+    "de": "das Blau",
+    "cat": "nomen"
+  },
+  {
+    "it": "il verde",
+    "de": "das Grün",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giallo",
+    "de": "das Gelb",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bianco",
+    "de": "das Weiss",
+    "cat": "nomen"
+  },
+  {
+    "it": "il nero",
+    "de": "das Schwarz",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'arancione",
+    "de": "das Orange",
+    "cat": "nomen"
+  },
+  {
+    "it": "il viola",
+    "de": "das Lila",
+    "cat": "nomen"
+  },
+  {
+    "it": "il rosa",
+    "de": "das Rosa",
+    "cat": "nomen"
+  },
+  {
+    "it": "il grigio",
+    "de": "das Grau",
+    "cat": "nomen"
+  },
+  {
+    "it": "il marrone",
+    "de": "das Braun",
+    "cat": "nomen"
+  },
+  {
+    "it": "zero",
+    "de": "null",
+    "cat": "nomen"
+  },
+  {
+    "it": "uno",
+    "de": "eins",
+    "cat": "nomen"
+  },
+  {
+    "it": "due",
+    "de": "zwei",
+    "cat": "nomen"
+  },
+  {
+    "it": "tre",
+    "de": "drei",
+    "cat": "nomen"
+  },
+  {
+    "it": "quattro",
+    "de": "vier",
+    "cat": "nomen"
+  },
+  {
+    "it": "cinque",
+    "de": "fünf",
+    "cat": "nomen"
+  },
+  {
+    "it": "sei",
+    "de": "sechs",
+    "cat": "nomen"
+  },
+  {
+    "it": "sette",
+    "de": "sieben",
+    "cat": "nomen"
+  },
+  {
+    "it": "otto",
+    "de": "acht",
+    "cat": "nomen"
+  },
+  {
+    "it": "nove",
+    "de": "neun",
+    "cat": "nomen"
+  },
+  {
+    "it": "dieci",
+    "de": "zehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "venti",
+    "de": "zwanzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "trenta",
+    "de": "dreissig",
+    "cat": "nomen"
+  },
+  {
+    "it": "cento",
+    "de": "hundert",
+    "cat": "nomen"
+  },
+  {
+    "it": "mille",
+    "de": "tausend",
+    "cat": "nomen"
+  },
+  {
+    "it": "un milione",
+    "de": "eine Million",
+    "cat": "nomen"
+  },
+  {
+    "it": "primo",
+    "de": "erster",
+    "cat": "nomen"
+  },
+  {
+    "it": "secondo",
+    "de": "zweiter",
+    "cat": "nomen"
+  },
+  {
+    "it": "terzo",
+    "de": "dritter",
+    "cat": "nomen"
+  },
+  {
+    "it": "gennaio",
+    "de": "Januar",
+    "cat": "nomen"
+  },
+  {
+    "it": "febbraio",
+    "de": "Februar",
+    "cat": "nomen"
+  },
+  {
+    "it": "marzo",
+    "de": "März",
+    "cat": "nomen"
+  },
+  {
+    "it": "aprile",
+    "de": "April",
+    "cat": "nomen"
+  },
+  {
+    "it": "maggio",
+    "de": "Mai",
+    "cat": "nomen"
+  },
+  {
+    "it": "giugno",
+    "de": "Juni",
+    "cat": "nomen"
+  },
+  {
+    "it": "luglio",
+    "de": "Juli",
+    "cat": "nomen"
+  },
+  {
+    "it": "agosto",
+    "de": "August",
+    "cat": "nomen"
+  },
+  {
+    "it": "settembre",
+    "de": "September",
+    "cat": "nomen"
+  },
+  {
+    "it": "ottobre",
+    "de": "Oktober",
+    "cat": "nomen"
+  },
+  {
+    "it": "novembre",
+    "de": "November",
+    "cat": "nomen"
+  },
+  {
+    "it": "dicembre",
+    "de": "Dezember",
+    "cat": "nomen"
+  },
+  {
+    "it": "lunedì",
+    "de": "Montag",
+    "cat": "nomen"
+  },
+  {
+    "it": "martedì",
+    "de": "Dienstag",
+    "cat": "nomen"
+  },
+  {
+    "it": "mercoledì",
+    "de": "Mittwoch",
+    "cat": "nomen"
+  },
+  {
+    "it": "giovedì",
+    "de": "Donnerstag",
+    "cat": "nomen"
+  },
+  {
+    "it": "venerdì",
+    "de": "Freitag",
+    "cat": "nomen"
+  },
+  {
+    "it": "sabato",
+    "de": "Samstag",
+    "cat": "nomen"
+  },
+  {
+    "it": "domenica",
+    "de": "Sonntag",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'uomo",
+    "de": "der Mann",
+    "cat": "nomen"
+  },
+  {
+    "it": "la donna",
+    "de": "die Frau",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bambino",
+    "de": "das Kind",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ragazzo",
+    "de": "der Junge",
+    "cat": "nomen"
+  },
+  {
+    "it": "la ragazza",
+    "de": "das Mädchen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il neonato",
+    "de": "der Baby",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'adulto",
+    "de": "der Erwachsene",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'anziano",
+    "de": "der alte Mensch",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'amico",
+    "de": "der Freund",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'amica",
+    "de": "die Freundin",
+    "cat": "nomen"
+  },
+  {
+    "it": "il collega",
+    "de": "der Kollege",
+    "cat": "nomen"
+  },
+  {
+    "it": "il vicino",
+    "de": "der Nachbar",
+    "cat": "nomen"
+  },
+  {
+    "it": "il capo",
+    "de": "der Chef",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cliente",
+    "de": "der Kunde",
+    "cat": "nomen"
+  },
+  {
+    "it": "la dottoressa",
+    "de": "die Ärztin",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'insegnante (m)",
+    "de": "der Lehrer",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'insegnante (f)",
+    "de": "die Lehrerin",
+    "cat": "nomen"
+  },
+  {
+    "it": "la studentessa",
+    "de": "die Studentin",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'autista",
+    "de": "der Fahrer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cugina",
+    "de": "die Cousine",
+    "cat": "nomen"
+  },
+  {
+    "it": "i genitori",
+    "de": "die Eltern",
+    "cat": "nomen"
+  },
+  {
+    "it": "la coppia",
+    "de": "das Ehepaar",
+    "cat": "nomen"
+  },
+  {
+    "it": "i gemelli",
+    "de": "die Zwillinge",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'occhio",
+    "de": "das Auge",
+    "cat": "nomen"
+  },
+  {
+    "it": "il labbro",
+    "de": "die Lippe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mento",
+    "de": "das Kinn",
+    "cat": "nomen"
+  },
+  {
+    "it": "la guancia",
+    "de": "die Wange",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fronte",
+    "de": "die Stirn",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gomito",
+    "de": "der Ellbogen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il polso",
+    "de": "das Handgelenk",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pollice",
+    "de": "der Daumen",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'unghia",
+    "de": "der Nagel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pancia",
+    "de": "der Bauch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fianco",
+    "de": "die Hüfte",
+    "cat": "nomen"
+  },
+  {
+    "it": "la caviglia",
+    "de": "der Knöchel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il dito del piede",
+    "de": "der Zeh",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cuore",
+    "de": "das Herz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il polmone",
+    "de": "die Lunge",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo stomaco",
+    "de": "der Magen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fegato",
+    "de": "die Leber",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cervello",
+    "de": "das Gehirn",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sangue",
+    "de": "das Blut",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'osso",
+    "de": "der Knochen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il muscolo",
+    "de": "der Muskel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pelle",
+    "de": "die Haut",
+    "cat": "nomen"
+  },
+  {
+    "it": "rosso",
+    "de": "rot",
+    "cat": "nomen"
+  },
+  {
+    "it": "blu",
+    "de": "blau",
+    "cat": "nomen"
+  },
+  {
+    "it": "verde",
+    "de": "grün",
+    "cat": "nomen"
+  },
+  {
+    "it": "giallo",
+    "de": "gelb",
+    "cat": "nomen"
+  },
+  {
+    "it": "arancione",
+    "de": "orange",
+    "cat": "nomen"
+  },
+  {
+    "it": "viola",
+    "de": "lila",
+    "cat": "nomen"
+  },
+  {
+    "it": "rosa",
+    "de": "rosa",
+    "cat": "nomen"
+  },
+  {
+    "it": "bianco",
+    "de": "weiss",
+    "cat": "nomen"
+  },
+  {
+    "it": "nero",
+    "de": "schwarz",
+    "cat": "nomen"
+  },
+  {
+    "it": "grigio",
+    "de": "grau",
+    "cat": "nomen"
+  },
+  {
+    "it": "marrone",
+    "de": "braun",
+    "cat": "nomen"
+  },
+  {
+    "it": "beige",
+    "de": "beige",
+    "cat": "nomen"
+  },
+  {
+    "it": "dorato",
+    "de": "golden",
+    "cat": "nomen"
+  },
+  {
+    "it": "argentato",
+    "de": "silbern",
+    "cat": "nomen"
+  },
+  {
+    "it": "chiaro",
+    "de": "hell",
+    "cat": "nomen"
+  },
+  {
+    "it": "scuro",
+    "de": "dunkel",
+    "cat": "nomen"
+  },
+  {
+    "it": "colorato",
+    "de": "bunt",
+    "cat": "nomen"
+  },
+  {
+    "it": "undici",
+    "de": "elf",
+    "cat": "nomen"
+  },
+  {
+    "it": "dodici",
+    "de": "zwölf",
+    "cat": "nomen"
+  },
+  {
+    "it": "tredici",
+    "de": "dreizehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "quattordici",
+    "de": "vierzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "quindici",
+    "de": "fünfzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "sedici",
+    "de": "sechzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "diciassette",
+    "de": "siebzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "diciotto",
+    "de": "achtzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "diciannove",
+    "de": "neunzehn",
+    "cat": "nomen"
+  },
+  {
+    "it": "quaranta",
+    "de": "vierzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "cinquanta",
+    "de": "fünfzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "sessanta",
+    "de": "sechzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "settanta",
+    "de": "siebzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "ottanta",
+    "de": "achtzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "novanta",
+    "de": "neunzig",
+    "cat": "nomen"
+  },
+  {
+    "it": "ultimo",
+    "de": "letzter",
+    "cat": "nomen"
+  },
+  {
+    "it": "mezzo",
+    "de": "halb",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tempo",
+    "de": "die Zeit",
+    "cat": "nomen"
+  },
+  {
+    "it": "la mattina",
+    "de": "der Morgen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mezzogiorno",
+    "de": "der Mittag",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fine settimana",
+    "de": "das Wochenende",
+    "cat": "nomen"
+  },
+  {
+    "it": "il secolo",
+    "de": "das Jahrhundert",
+    "cat": "nomen"
+  },
+  {
+    "it": "presto",
+    "de": "früh",
+    "cat": "nomen"
+  },
+  {
+    "it": "tardi",
+    "de": "spät",
+    "cat": "nomen"
+  },
+  {
+    "it": "sempre",
+    "de": "immer",
+    "cat": "nomen"
+  },
+  {
+    "it": "mai",
+    "de": "nie",
+    "cat": "nomen"
+  },
+  {
+    "it": "spesso",
+    "de": "oft",
+    "cat": "nomen"
+  },
+  {
+    "it": "a volte",
+    "de": "manchmal",
+    "cat": "nomen"
+  },
+  {
+    "it": "raramente",
+    "de": "selten",
+    "cat": "nomen"
+  },
+  {
+    "it": "prima",
+    "de": "früher",
+    "cat": "nomen"
+  },
+  {
+    "it": "dopo",
+    "de": "später",
+    "cat": "nomen"
+  },
+  {
+    "it": "la primavera",
+    "de": "der Frühling",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'estate",
+    "de": "der Sommer",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'autunno",
+    "de": "der Herbst",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'inverno",
+    "de": "der Winter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il meteo",
+    "de": "das Wetter",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tempesta",
+    "de": "der Sturm",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fulmine",
+    "de": "der Blitz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tuono",
+    "de": "der Donner",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nebbia",
+    "de": "der Nebel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gelo",
+    "de": "der Frost",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ghiaccio",
+    "de": "das Eis",
+    "cat": "nomen"
+  },
+  {
+    "it": "la grandine",
+    "de": "der Hagel",
+    "cat": "nomen"
+  },
+  {
+    "it": "tepido",
+    "de": "warm",
+    "cat": "nomen"
+  },
+  {
+    "it": "fresco",
+    "de": "kühl",
+    "cat": "nomen"
+  },
+  {
+    "it": "soleggiato",
+    "de": "sonnig",
+    "cat": "nomen"
+  },
+  {
+    "it": "nuvoloso",
+    "de": "bewölkt",
+    "cat": "nomen"
+  },
+  {
+    "it": "piovoso",
+    "de": "regnerisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "ventoso",
+    "de": "windig",
+    "cat": "nomen"
+  },
+  {
+    "it": "umido",
+    "de": "feucht",
+    "cat": "nomen"
+  },
+  {
+    "it": "secco",
+    "de": "trocken",
+    "cat": "nomen"
+  },
+  {
+    "it": "la natura",
+    "de": "die Natur",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'albero",
+    "de": "der Baum",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fiore",
+    "de": "die Blume",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'erba",
+    "de": "das Gras",
+    "cat": "nomen"
+  },
+  {
+    "it": "la valle",
+    "de": "das Tal",
+    "cat": "nomen"
+  },
+  {
+    "it": "il prato",
+    "de": "die Wiese",
+    "cat": "nomen"
+  },
+  {
+    "it": "la collina",
+    "de": "der Hügel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il deserto",
+    "de": "die Wüste",
+    "cat": "nomen"
+  },
+  {
+    "it": "la giungla",
+    "de": "der Dschungel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la grotta",
+    "de": "die Höhle",
+    "cat": "nomen"
+  },
+  {
+    "it": "la roccia",
+    "de": "der Fels",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pietra",
+    "de": "der Stein",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sabbia",
+    "de": "der Sand",
+    "cat": "nomen"
+  },
+  {
+    "it": "la terra",
+    "de": "die Erde",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fuoco",
+    "de": "das Feuer",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aria",
+    "de": "die Luft",
+    "cat": "nomen"
+  },
+  {
+    "it": "la stella",
+    "de": "der Stern",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'arcobaleno",
+    "de": "der Regenbogen",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'animale",
+    "de": "das Tier",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cane",
+    "de": "der Hund",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gatto",
+    "de": "die Katze",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cavallo",
+    "de": "das Pferd",
+    "cat": "nomen"
+  },
+  {
+    "it": "la mucca",
+    "de": "die Kuh",
+    "cat": "nomen"
+  },
+  {
+    "it": "il maiale",
+    "de": "das Schwein",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pecora",
+    "de": "das Schaf",
+    "cat": "nomen"
+  },
+  {
+    "it": "la capra",
+    "de": "die Ziege",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gallina",
+    "de": "das Huhn",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gallo",
+    "de": "der Hahn",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'anatra",
+    "de": "die Ente",
+    "cat": "nomen"
+  },
+  {
+    "it": "il coniglio",
+    "de": "das Kaninchen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lepre",
+    "de": "der Hase",
+    "cat": "nomen"
+  },
+  {
+    "it": "il lupo",
+    "de": "der Wolf",
+    "cat": "nomen"
+  },
+  {
+    "it": "la volpe",
+    "de": "der Fuchs",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orso",
+    "de": "der Bär",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cervo",
+    "de": "der Hirsch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il capriolo",
+    "de": "das Reh",
+    "cat": "nomen"
+  },
+  {
+    "it": "il leone",
+    "de": "der Löwe",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tigre",
+    "de": "der Tiger",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'elefante",
+    "de": "der Elefant",
+    "cat": "nomen"
+  },
+  {
+    "it": "la giraffa",
+    "de": "die Giraffe",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zebra",
+    "de": "das Zebra",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scimmia",
+    "de": "der Affe",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'uccello",
+    "de": "der Vogel",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aquila",
+    "de": "der Adler",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pappagallo",
+    "de": "der Papagei",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pinguino",
+    "de": "der Pinguin",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo squalo",
+    "de": "der Hai",
+    "cat": "nomen"
+  },
+  {
+    "it": "il delfino",
+    "de": "der Delphin",
+    "cat": "nomen"
+  },
+  {
+    "it": "la balena",
+    "de": "der Wal",
+    "cat": "nomen"
+  },
+  {
+    "it": "il serpente",
+    "de": "die Schlange",
+    "cat": "nomen"
+  },
+  {
+    "it": "il coccodrillo",
+    "de": "das Krokodil",
+    "cat": "nomen"
+  },
+  {
+    "it": "la rana",
+    "de": "der Frosch",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ape",
+    "de": "die Biene",
+    "cat": "nomen"
+  },
+  {
+    "it": "la farfalla",
+    "de": "der Schmetterling",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ragno",
+    "de": "die Spinne",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zanzara",
+    "de": "die Mücke",
+    "cat": "nomen"
+  },
+  {
+    "it": "il verme",
+    "de": "der Wurm",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tartaruga",
+    "de": "die Schildkröte",
+    "cat": "nomen"
+  },
+  {
+    "it": "il criceto",
+    "de": "der Hamster",
+    "cat": "nomen"
+  },
+  {
+    "it": "il topo",
+    "de": "die Maus",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ratto",
+    "de": "die Ratte",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orso polare",
+    "de": "der Eisbär",
+    "cat": "nomen"
+  },
+  {
+    "it": "il canguro",
+    "de": "das Känguru",
+    "cat": "nomen"
+  },
+  {
+    "it": "il panda",
+    "de": "der Panda",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cibo",
+    "de": "das Essen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la colazione",
+    "de": "das Frühstück",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pranzo",
+    "de": "das Mittagessen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cena",
+    "de": "das Abendessen",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'uovo",
+    "de": "das Ei",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo yogurt",
+    "de": "der Joghurt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la panna",
+    "de": "die Sahne",
+    "cat": "nomen"
+  },
+  {
+    "it": "il manzo",
+    "de": "das Rindfleisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'agnello",
+    "de": "das Lammfleisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "la patata",
+    "de": "die Kartoffel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la carota",
+    "de": "die Karotte",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'insalata",
+    "de": "der Salat",
+    "cat": "nomen"
+  },
+  {
+    "it": "il peperone",
+    "de": "die Paprika",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fungo",
+    "de": "der Pilz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il broccolo",
+    "de": "der Brokkoli",
+    "cat": "nomen"
+  },
+  {
+    "it": "gli spinaci",
+    "de": "der Spinat",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zucchina",
+    "de": "die Zucchini",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zucca",
+    "de": "der Kürbis",
+    "cat": "nomen"
+  },
+  {
+    "it": "la melanzana",
+    "de": "die Aubergine",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pisello",
+    "de": "die Erbse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il fagiolo",
+    "de": "die Bohne",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mais",
+    "de": "der Mais",
+    "cat": "nomen"
+  },
+  {
+    "it": "la banana",
+    "de": "die Banane",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fragola",
+    "de": "die Erdbeere",
+    "cat": "nomen"
+  },
+  {
+    "it": "la ciliegia",
+    "de": "die Kirsche",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'uva",
+    "de": "die Traube",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ananas",
+    "de": "die Ananas",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'anguria",
+    "de": "die Wassermelone",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mango",
+    "de": "die Mango",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pesca",
+    "de": "der Pfirsich",
+    "cat": "nomen"
+  },
+  {
+    "it": "il lampone",
+    "de": "die Himbeere",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mirtillo",
+    "de": "die Heidelbeere",
+    "cat": "nomen"
+  },
+  {
+    "it": "la farina",
+    "de": "das Mehl",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pepe",
+    "de": "der Pfeffer",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'aceto",
+    "de": "der Essig",
+    "cat": "nomen"
+  },
+  {
+    "it": "la salsa",
+    "de": "die Sauce",
+    "cat": "nomen"
+  },
+  {
+    "it": "la zuppa",
+    "de": "die Suppe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il panino",
+    "de": "das Sandwich",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cioccolato",
+    "de": "die Schokolade",
+    "cat": "nomen"
+  },
+  {
+    "it": "i biscotti",
+    "de": "die Kekse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il miele",
+    "de": "der Honig",
+    "cat": "nomen"
+  },
+  {
+    "it": "la marmellata",
+    "de": "die Marmelade",
+    "cat": "nomen"
+  },
+  {
+    "it": "la maionese",
+    "de": "die Mayonnaise",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ketchup",
+    "de": "der Ketchup",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo champagne",
+    "de": "der Champagner",
+    "cat": "nomen"
+  },
+  {
+    "it": "la coca-cola",
+    "de": "die Cola",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'acqua minerale",
+    "de": "das Mineralwasser",
+    "cat": "nomen"
+  },
+  {
+    "it": "il frullato",
+    "de": "der Smoothie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la camera da letto",
+    "de": "das Schlafzimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il soggiorno",
+    "de": "das Wohnzimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il WC",
+    "de": "die Toilette",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sala da pranzo",
+    "de": "das Esszimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo studio",
+    "de": "das Arbeitszimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cantina",
+    "de": "der Keller",
+    "cat": "nomen"
+  },
+  {
+    "it": "la soffitta",
+    "de": "der Dachboden",
+    "cat": "nomen"
+  },
+  {
+    "it": "la terrazza",
+    "de": "die Terrasse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il garage",
+    "de": "die Garage",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scala",
+    "de": "die Treppe",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'ascensore",
+    "de": "der Fahrstuhl",
+    "cat": "nomen"
+  },
+  {
+    "it": "il muro",
+    "de": "die Wand",
+    "cat": "nomen"
+  },
+  {
+    "it": "il soffitto",
+    "de": "die Decke",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tetto",
+    "de": "das Dach",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'armadio",
+    "de": "der Schrank",
+    "cat": "nomen"
+  },
+  {
+    "it": "la poltrona",
+    "de": "der Sessel",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo scaffale",
+    "de": "das Regal",
+    "cat": "nomen"
+  },
+  {
+    "it": "il quadro",
+    "de": "das Bild",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tenda",
+    "de": "der Vorhang",
+    "cat": "nomen"
+  },
+  {
+    "it": "i vestiti",
+    "de": "die Kleidung",
+    "cat": "nomen"
+  },
+  {
+    "it": "la camicia",
+    "de": "das Hemd",
+    "cat": "nomen"
+  },
+  {
+    "it": "la maglietta",
+    "de": "das T-Shirt",
+    "cat": "nomen"
+  },
+  {
+    "it": "il maglione",
+    "de": "der Pullover",
+    "cat": "nomen"
+  },
+  {
+    "it": "la giacca",
+    "de": "die Jacke",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cappotto",
+    "de": "der Mantel",
+    "cat": "nomen"
+  },
+  {
+    "it": "i pantaloni",
+    "de": "die Hose",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gonna",
+    "de": "der Rock",
+    "cat": "nomen"
+  },
+  {
+    "it": "il vestito",
+    "de": "das Kleid",
+    "cat": "nomen"
+  },
+  {
+    "it": "il completo",
+    "de": "der Anzug",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cravatta",
+    "de": "die Krawatte",
+    "cat": "nomen"
+  },
+  {
+    "it": "la biancheria intima",
+    "de": "die Unterwäsche",
+    "cat": "nomen"
+  },
+  {
+    "it": "i calzini",
+    "de": "die Socken",
+    "cat": "nomen"
+  },
+  {
+    "it": "il collant",
+    "de": "die Strumpfhose",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sciarpa",
+    "de": "der Schal",
+    "cat": "nomen"
+  },
+  {
+    "it": "il guanto",
+    "de": "der Handschuh",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cappello",
+    "de": "der Hut",
+    "cat": "nomen"
+  },
+  {
+    "it": "il berretto",
+    "de": "die Mütze",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scarpa",
+    "de": "der Schuh",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo stivale",
+    "de": "der Stiefel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sneaker",
+    "de": "der Turnschuh",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sandalo",
+    "de": "die Sandale",
+    "cat": "nomen"
+  },
+  {
+    "it": "gli occhiali",
+    "de": "die Brille",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orologio",
+    "de": "die Uhr",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'anello",
+    "de": "der Ring",
+    "cat": "nomen"
+  },
+  {
+    "it": "la collana",
+    "de": "die Halskette",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cintura",
+    "de": "der Gürtel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la borsa",
+    "de": "die Tasche",
+    "cat": "nomen"
+  },
+  {
+    "it": "il braccialetto",
+    "de": "das Armband",
+    "cat": "nomen"
+  },
+  {
+    "it": "gli orecchini",
+    "de": "die Ohrringe",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lezione",
+    "de": "der Unterricht",
+    "cat": "nomen"
+  },
+  {
+    "it": "i compiti",
+    "de": "die Hausaufgaben",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'esame",
+    "de": "die Prüfung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il voto",
+    "de": "die Note",
+    "cat": "nomen"
+  },
+  {
+    "it": "il libro",
+    "de": "das Buch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il quaderno",
+    "de": "das Heft",
+    "cat": "nomen"
+  },
+  {
+    "it": "la penna",
+    "de": "der Stift",
+    "cat": "nomen"
+  },
+  {
+    "it": "la matita",
+    "de": "der Bleistift",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gomma",
+    "de": "der Radiergummi",
+    "cat": "nomen"
+  },
+  {
+    "it": "il righello",
+    "de": "das Lineal",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo zaino",
+    "de": "der Rucksack",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lavagna",
+    "de": "die Tafel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il computer",
+    "de": "der Computer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cellulare",
+    "de": "das Handy",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'e-mail",
+    "de": "die E-Mail",
+    "cat": "nomen"
+  },
+  {
+    "it": "la riunione",
+    "de": "die Besprechung",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo stipendio",
+    "de": "das Gehalt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fattura",
+    "de": "die Rechnung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il contratto",
+    "de": "der Vertrag",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'azienda",
+    "de": "die Firma",
+    "cat": "nomen"
+  },
+  {
+    "it": "il progetto",
+    "de": "das Projekt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la conferenza",
+    "de": "die Konferenz",
+    "cat": "nomen"
+  },
+  {
+    "it": "la moto",
+    "de": "das Motorrad",
+    "cat": "nomen"
+  },
+  {
+    "it": "la barca",
+    "de": "das Boot",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fermata",
+    "de": "die Haltestelle",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'autostrada",
+    "de": "die Autobahn",
+    "cat": "nomen"
+  },
+  {
+    "it": "il traffico",
+    "de": "der Verkehr",
+    "cat": "nomen"
+  },
+  {
+    "it": "la benzina",
+    "de": "das Benzin",
+    "cat": "nomen"
+  },
+  {
+    "it": "il biglietto",
+    "de": "das Ticket",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orario",
+    "de": "der Fahrplan",
+    "cat": "nomen"
+  },
+  {
+    "it": "il semaforo",
+    "de": "die Ampel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il volante",
+    "de": "das Steuer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il parcheggio",
+    "de": "der Parkplatz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il distributore",
+    "de": "die Tankstelle",
+    "cat": "nomen"
+  },
+  {
+    "it": "la salute",
+    "de": "die Gesundheit",
+    "cat": "nomen"
+  },
+  {
+    "it": "la malattia",
+    "de": "die Krankheit",
+    "cat": "nomen"
+  },
+  {
+    "it": "il farmaco",
+    "de": "das Medikament",
+    "cat": "nomen"
+  },
+  {
+    "it": "la compressa",
+    "de": "die Tablette",
+    "cat": "nomen"
+  },
+  {
+    "it": "la febbre",
+    "de": "das Fieber",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tosse",
+    "de": "der Husten",
+    "cat": "nomen"
+  },
+  {
+    "it": "il raffreddore",
+    "de": "der Schnupfen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mal di testa",
+    "de": "der Kopfschmerz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mal di pancia",
+    "de": "der Bauchschmerz",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'allergia",
+    "de": "die Allergie",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'operazione",
+    "de": "die Operation",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cerotto",
+    "de": "das Pflaster",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bendaggio",
+    "de": "der Verband",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'iniezione",
+    "de": "die Spritze",
+    "cat": "nomen"
+  },
+  {
+    "it": "la dieta",
+    "de": "die Diät",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'allenamento",
+    "de": "das Training",
+    "cat": "nomen"
+  },
+  {
+    "it": "la vaccinazione",
+    "de": "die Impfung",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sedia a rotelle",
+    "de": "der Rollstuhl",
+    "cat": "nomen"
+  },
+  {
+    "it": "il prezzo",
+    "de": "der Preis",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'offerta",
+    "de": "das Angebot",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo sconto",
+    "de": "der Rabatt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la cassa",
+    "de": "die Kasse",
+    "cat": "nomen"
+  },
+  {
+    "it": "la carta di credito",
+    "de": "die Kreditkarte",
+    "cat": "nomen"
+  },
+  {
+    "it": "i contanti",
+    "de": "das Bargeld",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo scontrino",
+    "de": "die Quittung",
+    "cat": "nomen"
+  },
+  {
+    "it": "caro",
+    "de": "teuer",
+    "cat": "nomen"
+  },
+  {
+    "it": "conveniente",
+    "de": "günstig",
+    "cat": "nomen"
+  },
+  {
+    "it": "economico",
+    "de": "billig",
+    "cat": "nomen"
+  },
+  {
+    "it": "gratuito",
+    "de": "kostenlos",
+    "cat": "nomen"
+  },
+  {
+    "it": "il viaggio",
+    "de": "die Reise",
+    "cat": "nomen"
+  },
+  {
+    "it": "le vacanze",
+    "de": "der Urlaub",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'albergo",
+    "de": "das Hotel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la camera",
+    "de": "das Zimmer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la prenotazione",
+    "de": "die Reservierung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il passaporto",
+    "de": "der Pass",
+    "cat": "nomen"
+  },
+  {
+    "it": "il visto",
+    "de": "das Visum",
+    "cat": "nomen"
+  },
+  {
+    "it": "la valigia",
+    "de": "der Koffer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la mappa",
+    "de": "die Karte",
+    "cat": "nomen"
+  },
+  {
+    "it": "il monumento",
+    "de": "das Denkmal",
+    "cat": "nomen"
+  },
+  {
+    "it": "il museo",
+    "de": "das Museum",
+    "cat": "nomen"
+  },
+  {
+    "it": "la chiesa",
+    "de": "die Kirche",
+    "cat": "nomen"
+  },
+  {
+    "it": "la torre",
+    "de": "der Turm",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'attrazione turistica",
+    "de": "die Sehenswürdigkeit",
+    "cat": "nomen"
+  },
+  {
+    "it": "il souvenir",
+    "de": "das Souvenir",
+    "cat": "nomen"
+  },
+  {
+    "it": "la guida turistica",
+    "de": "der Reiseführer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tour",
+    "de": "die Tour",
+    "cat": "nomen"
+  },
+  {
+    "it": "internet",
+    "de": "das Internet",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sito web",
+    "de": "die Website",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'applicazione",
+    "de": "die App",
+    "cat": "nomen"
+  },
+  {
+    "it": "la password",
+    "de": "das Passwort",
+    "cat": "nomen"
+  },
+  {
+    "it": "il software",
+    "de": "die Software",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo schermo",
+    "de": "der Bildschirm",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tastiera",
+    "de": "die Tastatur",
+    "cat": "nomen"
+  },
+  {
+    "it": "il mouse",
+    "de": "die Maus",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cloud",
+    "de": "die Cloud",
+    "cat": "nomen"
+  },
+  {
+    "it": "il wifi",
+    "de": "das Wifi",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fotocamera",
+    "de": "die Kamera",
+    "cat": "nomen"
+  },
+  {
+    "it": "la foto",
+    "de": "das Foto",
+    "cat": "nomen"
+  },
+  {
+    "it": "il video",
+    "de": "das Video",
+    "cat": "nomen"
+  },
+  {
+    "it": "il televisore",
+    "de": "der Fernseher",
+    "cat": "nomen"
+  },
+  {
+    "it": "la radio",
+    "de": "das Radio",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'altoparlante",
+    "de": "der Lautsprecher",
+    "cat": "nomen"
+  },
+  {
+    "it": "le cuffie",
+    "de": "der Kopfhörer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il microfono",
+    "de": "das Mikrofon",
+    "cat": "nomen"
+  },
+  {
+    "it": "la batteria",
+    "de": "die Batterie",
+    "cat": "nomen"
+  },
+  {
+    "it": "il caricatore",
+    "de": "das Ladegerät",
+    "cat": "nomen"
+  },
+  {
+    "it": "il drone",
+    "de": "die Drohne",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'IA / l'intelligenza artificiale",
+    "de": "die KI",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo smartphone",
+    "de": "das Smartphone",
+    "cat": "nomen"
+  },
+  {
+    "it": "il robot",
+    "de": "der Roboter",
+    "cat": "nomen"
+  },
+  {
+    "it": "la musica",
+    "de": "die Musik",
+    "cat": "nomen"
+  },
+  {
+    "it": "la canzone",
+    "de": "das Lied",
+    "cat": "nomen"
+  },
+  {
+    "it": "il concerto",
+    "de": "das Konzert",
+    "cat": "nomen"
+  },
+  {
+    "it": "la chitarra",
+    "de": "die Gitarre",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pianoforte",
+    "de": "das Klavier",
+    "cat": "nomen"
+  },
+  {
+    "it": "il violino",
+    "de": "die Geige",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tromba",
+    "de": "die Trompete",
+    "cat": "nomen"
+  },
+  {
+    "it": "il flauto",
+    "de": "die Flöte",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cantante",
+    "de": "der Sänger",
+    "cat": "nomen"
+  },
+  {
+    "it": "il coro",
+    "de": "der Chor",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orchestra",
+    "de": "das Orchester",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ritmo",
+    "de": "der Rhythmus",
+    "cat": "nomen"
+  },
+  {
+    "it": "la melodia",
+    "de": "die Melodie",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'album",
+    "de": "das Album",
+    "cat": "nomen"
+  },
+  {
+    "it": "la playlist",
+    "de": "die Playlist",
+    "cat": "nomen"
+  },
+  {
+    "it": "il calcio",
+    "de": "der Fussball",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pallacanestro",
+    "de": "der Basketball",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tennis",
+    "de": "der Tennis",
+    "cat": "nomen"
+  },
+  {
+    "it": "il nuoto",
+    "de": "das Schwimmen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la corsa",
+    "de": "das Laufen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ciclismo",
+    "de": "das Radfahren",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'arrampicata",
+    "de": "das Klettern",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo sci",
+    "de": "das Skiing",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo stadio",
+    "de": "das Stadion",
+    "cat": "nomen"
+  },
+  {
+    "it": "la squadra",
+    "de": "das Team",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'allenatore",
+    "de": "der Trainer",
+    "cat": "nomen"
+  },
+  {
+    "it": "il gol",
+    "de": "das Tor",
+    "cat": "nomen"
+  },
+  {
+    "it": "la vittoria",
+    "de": "der Sieg",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sconfitta",
+    "de": "die Niederlage",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pareggio",
+    "de": "das Unentschieden",
+    "cat": "nomen"
+  },
+  {
+    "it": "il campionato",
+    "de": "die Meisterschaft",
+    "cat": "nomen"
+  },
+  {
+    "it": "il torneo",
+    "de": "das Turnier",
+    "cat": "nomen"
+  },
+  {
+    "it": "il campione del mondo",
+    "de": "der Weltmeister",
+    "cat": "nomen"
+  },
+  {
+    "it": "la matematica",
+    "de": "die Mathematik",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fisica",
+    "de": "die Physik",
+    "cat": "nomen"
+  },
+  {
+    "it": "la chimica",
+    "de": "die Chemie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la biologia",
+    "de": "die Biologie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la storia",
+    "de": "die Geschichte",
+    "cat": "nomen"
+  },
+  {
+    "it": "la geografia",
+    "de": "die Geografie",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'arte",
+    "de": "die Kunst",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'informatica",
+    "de": "die Informatik",
+    "cat": "nomen"
+  },
+  {
+    "it": "la filosofia",
+    "de": "die Philosophie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la psicologia",
+    "de": "die Psychologie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la letteratura",
+    "de": "die Literatur",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'economia",
+    "de": "die Wirtschaft",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tedesco",
+    "de": "das Deutsch",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'inglese",
+    "de": "das Englisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il francese",
+    "de": "das Französisch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il latino",
+    "de": "das Latein",
+    "cat": "nomen"
+  },
+  {
+    "it": "i soldi",
+    "de": "das Geld",
+    "cat": "nomen"
+  },
+  {
+    "it": "la moneta",
+    "de": "die Münze",
+    "cat": "nomen"
+  },
+  {
+    "it": "la banconota",
+    "de": "der Geldschein",
+    "cat": "nomen"
+  },
+  {
+    "it": "il conto",
+    "de": "das Konto",
+    "cat": "nomen"
+  },
+  {
+    "it": "i risparmi",
+    "de": "die Ersparnisse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il prestito",
+    "de": "der Kredit",
+    "cat": "nomen"
+  },
+  {
+    "it": "gli interessi",
+    "de": "die Zinsen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tassa",
+    "de": "die Steuer",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'assicurazione",
+    "de": "die Versicherung",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'euro",
+    "de": "der Euro",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'inflazione",
+    "de": "die Inflation",
+    "cat": "nomen"
+  },
+  {
+    "it": "il budget",
+    "de": "das Budget",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'investimento",
+    "de": "die Investition",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'affitto",
+    "de": "die Miete",
+    "cat": "nomen"
+  },
+  {
+    "it": "il salario",
+    "de": "der Lohn",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pensione",
+    "de": "die Rente",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gioia",
+    "de": "die Freude",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tristezza",
+    "de": "die Trauer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la rabbia",
+    "de": "die Wut",
+    "cat": "nomen"
+  },
+  {
+    "it": "la paura",
+    "de": "die Angst",
+    "cat": "nomen"
+  },
+  {
+    "it": "la sorpresa",
+    "de": "die Überraschung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il disgusto",
+    "de": "der Ekel",
+    "cat": "nomen"
+  },
+  {
+    "it": "la vergogna",
+    "de": "die Scham",
+    "cat": "nomen"
+  },
+  {
+    "it": "la solitudine",
+    "de": "die Einsamkeit",
+    "cat": "nomen"
+  },
+  {
+    "it": "la speranza",
+    "de": "die Hoffnung",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'amore",
+    "de": "die Liebe",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'odio",
+    "de": "der Hass",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gelosia",
+    "de": "die Eifersucht",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'invidia",
+    "de": "der Neid",
+    "cat": "nomen"
+  },
+  {
+    "it": "la fiducia",
+    "de": "das Vertrauen",
+    "cat": "nomen"
+  },
+  {
+    "it": "la curiosità",
+    "de": "die Neugier",
+    "cat": "nomen"
+  },
+  {
+    "it": "la noia",
+    "de": "die Langeweile",
+    "cat": "nomen"
+  },
+  {
+    "it": "la soddisfazione",
+    "de": "die Zufriedenheit",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'orgoglio",
+    "de": "der Stolz",
+    "cat": "nomen"
+  },
+  {
+    "it": "la gratitudine",
+    "de": "die Dankbarkeit",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'entusiasmo",
+    "de": "die Begeisterung",
+    "cat": "nomen"
+  },
+  {
+    "it": "grasso; spesso",
+    "de": "dick",
+    "cat": "adjektive"
+  },
+  {
+    "it": "magro; sottile",
+    "de": "dünn",
+    "cat": "adjektive"
+  },
+  {
+    "it": "pesante; difficile",
+    "de": "schwer",
+    "cat": "adjektive"
+  },
+  {
+    "it": "leggero; facile",
+    "de": "leicht",
+    "cat": "adjektive"
+  },
+  {
+    "it": "affamato",
+    "de": "hungrig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "assetato",
+    "de": "durstig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "malato",
+    "de": "krank",
+    "cat": "adjektive"
+  },
+  {
+    "it": "sano",
+    "de": "gesund",
+    "cat": "adjektive"
+  },
+  {
+    "it": "serio",
+    "de": "ernst",
+    "cat": "adjektive"
+  },
+  {
+    "it": "semplice",
+    "de": "einfach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "pulito",
+    "de": "sauber",
+    "cat": "adjektive"
+  },
+  {
+    "it": "sporco",
+    "de": "schmutzig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "rumoroso",
+    "de": "laut",
+    "cat": "adjektive"
+  },
+  {
+    "it": "silenzioso",
+    "de": "leise",
+    "cat": "adjektive"
+  },
+  {
+    "it": "importante",
+    "de": "wichtig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "giusto",
+    "de": "richtig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "sbagliato",
+    "de": "falsch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "possibile",
+    "de": "möglich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "amichevole",
+    "de": "freundlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "intelligente",
+    "de": "klug",
+    "cat": "adjektive"
+  },
+  {
+    "it": "stupido",
+    "de": "dumm",
+    "cat": "adjektive"
+  },
+  {
+    "it": "timoroso",
+    "de": "ängstlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "diventare",
+    "de": "werden",
+    "cat": "verben"
+  },
+  {
+    "it": "potere",
+    "de": "dürfen",
+    "cat": "verben"
+  },
+  {
+    "it": "dovere",
+    "de": "sollen",
+    "cat": "verben"
+  },
+  {
+    "it": "guidare",
+    "de": "fahren",
+    "cat": "verben"
+  },
+  {
+    "it": "volare",
+    "de": "fliegen",
+    "cat": "verben"
+  },
+  {
+    "it": "stare in piedi",
+    "de": "stehen",
+    "cat": "verben"
+  },
+  {
+    "it": "giacere",
+    "de": "liegen",
+    "cat": "verben"
+  },
+  {
+    "it": "conoscere",
+    "de": "kennen",
+    "cat": "verben"
+  },
+  {
+    "it": "avere bisogno di",
+    "de": "brauchen",
+    "cat": "verben"
+  },
+  {
+    "it": "dare",
+    "de": "geben",
+    "cat": "verben"
+  },
+  {
+    "it": "mandare",
+    "de": "schicken",
+    "cat": "verben"
+  },
+  {
+    "it": "spiegare",
+    "de": "erklären",
+    "cat": "verben"
+  },
+  {
+    "it": "mostrare",
+    "de": "zeigen",
+    "cat": "verben"
+  },
+  {
+    "it": "pianificare",
+    "de": "planen",
+    "cat": "verben"
+  },
+  {
+    "it": "dipingere",
+    "de": "malen",
+    "cat": "verben"
+  },
+  {
+    "it": "fotografare",
+    "de": "fotografieren",
+    "cat": "verben"
+  },
+  {
+    "it": "viaggiare",
+    "de": "reisen",
+    "cat": "verben"
+  },
+  {
+    "it": "visitare",
+    "de": "besuchen",
+    "cat": "verben"
+  },
+  {
+    "it": "riposarsi",
+    "de": "ausruhen",
+    "cat": "verben"
+  },
+  {
+    "it": "la capitale",
+    "de": "die Hauptstadt",
+    "cat": "nomen"
+  },
+  {
+    "it": "la nazione",
+    "de": "das Land",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'Europa",
+    "de": "Europa",
+    "cat": "nomen"
+  },
+  {
+    "it": "la Germania",
+    "de": "Deutschland",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'Italia",
+    "de": "Italien",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'Austria",
+    "de": "Österreich",
+    "cat": "nomen"
+  },
+  {
+    "it": "la Svizzera",
+    "de": "die Schweiz",
+    "cat": "nomen"
+  },
+  {
+    "it": "la Francia",
+    "de": "Frankreich",
+    "cat": "nomen"
+  },
+  {
+    "it": "la Spagna",
+    "de": "Spanien",
+    "cat": "nomen"
+  },
+  {
+    "it": "il parco",
+    "de": "der Park",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo zoo",
+    "de": "der Zoo",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cinema",
+    "de": "das Kino",
+    "cat": "nomen"
+  },
+  {
+    "it": "il teatro",
+    "de": "das Theater",
+    "cat": "nomen"
+  },
+  {
+    "it": "la biblioteca",
+    "de": "die Bibliothek",
+    "cat": "nomen"
+  },
+  {
+    "it": "le poste",
+    "de": "die Post",
+    "cat": "nomen"
+  },
+  {
+    "it": "il municipio",
+    "de": "das Rathaus",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'asilo",
+    "de": "der Kindergarten",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cimitero",
+    "de": "der Friedhof",
+    "cat": "nomen"
+  },
+  {
+    "it": "la piazza del mercato",
+    "de": "der Marktplatz",
+    "cat": "nomen"
+  },
+  {
+    "it": "a sinistra",
+    "de": "links",
+    "cat": "nomen"
+  },
+  {
+    "it": "a destra",
+    "de": "rechts",
+    "cat": "nomen"
+  },
+  {
+    "it": "dritto",
+    "de": "geradeaus",
+    "cat": "nomen"
+  },
+  {
+    "it": "sopra",
+    "de": "oben",
+    "cat": "nomen"
+  },
+  {
+    "it": "sotto",
+    "de": "unten",
+    "cat": "nomen"
+  },
+  {
+    "it": "davanti",
+    "de": "vorne",
+    "cat": "nomen"
+  },
+  {
+    "it": "dietro",
+    "de": "hinten",
+    "cat": "nomen"
+  },
+  {
+    "it": "accanto",
+    "de": "neben",
+    "cat": "nomen"
+  },
+  {
+    "it": "tra",
+    "de": "zwischen",
+    "cat": "nomen"
+  },
+  {
+    "it": "di fronte",
+    "de": "gegenüber",
+    "cat": "nomen"
+  },
+  {
+    "it": "vicino",
+    "de": "nah",
+    "cat": "nomen"
+  },
+  {
+    "it": "lontano",
+    "de": "weit",
+    "cat": "nomen"
+  },
+  {
+    "it": "qui",
+    "de": "hier",
+    "cat": "nomen"
+  },
+  {
+    "it": "là",
+    "de": "dort",
+    "cat": "nomen"
+  },
+  {
+    "it": "nord",
+    "de": "Norden",
+    "cat": "nomen"
+  },
+  {
+    "it": "sud",
+    "de": "Süden",
+    "cat": "nomen"
+  },
+  {
+    "it": "est",
+    "de": "Osten",
+    "cat": "nomen"
+  },
+  {
+    "it": "ovest",
+    "de": "Westen",
+    "cat": "nomen"
+  },
+  {
+    "it": "io",
+    "de": "ich",
+    "cat": "nomen"
+  },
+  {
+    "it": "tu",
+    "de": "du",
+    "cat": "nomen"
+  },
+  {
+    "it": "lui",
+    "de": "er",
+    "cat": "nomen"
+  },
+  {
+    "it": "lei",
+    "de": "sie",
+    "cat": "nomen"
+  },
+  {
+    "it": "noi",
+    "de": "wir",
+    "cat": "nomen"
+  },
+  {
+    "it": "voi",
+    "de": "ihr",
+    "cat": "nomen"
+  },
+  {
+    "it": "loro",
+    "de": "sie",
+    "cat": "nomen"
+  },
+  {
+    "it": "Lei",
+    "de": "Sie",
+    "cat": "nomen"
+  },
+  {
+    "it": "mio",
+    "de": "mein",
+    "cat": "nomen"
+  },
+  {
+    "it": "tuo",
+    "de": "dein",
+    "cat": "nomen"
+  },
+  {
+    "it": "suo",
+    "de": "sein",
+    "cat": "nomen"
+  },
+  {
+    "it": "nostro",
+    "de": "unser",
+    "cat": "nomen"
+  },
+  {
+    "it": "vostro",
+    "de": "euer",
+    "cat": "nomen"
+  },
+  {
+    "it": "questo",
+    "de": "dieser",
+    "cat": "nomen"
+  },
+  {
+    "it": "quello",
+    "de": "jener",
+    "cat": "nomen"
+  },
+  {
+    "it": "ogni",
+    "de": "jeder",
+    "cat": "nomen"
+  },
+  {
+    "it": "nessuno",
+    "de": "niemand",
+    "cat": "nomen"
+  },
+  {
+    "it": "tutto",
+    "de": "alles",
+    "cat": "nomen"
+  },
+  {
+    "it": "niente",
+    "de": "nichts",
+    "cat": "nomen"
+  },
+  {
+    "it": "sì",
+    "de": "ja",
+    "cat": "phrasen"
+  },
+  {
+    "it": "no",
+    "de": "nein",
+    "cat": "phrasen"
+  },
+  {
+    "it": "per favore",
+    "de": "bitte",
+    "cat": "phrasen"
+  },
+  {
+    "it": "grazie",
+    "de": "danke",
+    "cat": "phrasen"
+  },
+  {
+    "it": "scusa",
+    "de": "Entschuldigung",
+    "cat": "phrasen"
+  },
+  {
+    "it": "ciao",
+    "de": "Hallo",
+    "cat": "phrasen"
+  },
+  {
+    "it": "arrivederci",
+    "de": "Auf Wiedersehen",
+    "cat": "phrasen"
+  },
+  {
+    "it": "buongiorno",
+    "de": "Guten Morgen",
+    "cat": "phrasen"
+  },
+  {
+    "it": "buonasera",
+    "de": "Guten Abend",
+    "cat": "phrasen"
+  },
+  {
+    "it": "buonanotte",
+    "de": "Gute Nacht",
+    "cat": "phrasen"
+  },
+  {
+    "it": "congratulazioni",
+    "de": "Herzlichen Glückwunsch",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Buon Natale",
+    "de": "Frohe Weihnachten",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Felice Anno Nuovo",
+    "de": "Frohes neues Jahr",
+    "cat": "phrasen"
+  },
+  {
+    "it": "buon viaggio",
+    "de": "Gute Reise",
+    "cat": "phrasen"
+  },
+  {
+    "it": "buon divertimento",
+    "de": "Viel Spass",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Sto bene",
+    "de": "Mir geht es gut",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Vorrei...",
+    "de": "Ich möchte...",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Mi dispiace.",
+    "de": "Es tut mir leid.",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Certo! / Naturalmente!",
+    "de": "Natürlich!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Ti amo",
+    "de": "Ich liebe dich",
+    "cat": "phrasen"
+  },
+  {
+    "it": "Va bene!",
+    "de": "Alles klar!",
+    "cat": "phrasen"
+  },
+  {
+    "it": "come",
+    "de": "wie",
+    "cat": "nomen"
+  },
+  {
+    "it": "che cosa",
+    "de": "was",
+    "cat": "nomen"
+  },
+  {
+    "it": "chi",
+    "de": "wer",
+    "cat": "nomen"
+  },
+  {
+    "it": "dove",
+    "de": "wo",
+    "cat": "nomen"
+  },
+  {
+    "it": "quando",
+    "de": "wann",
+    "cat": "nomen"
+  },
+  {
+    "it": "perché",
+    "de": "warum",
+    "cat": "nomen"
+  },
+  {
+    "it": "dove (direzione)",
+    "de": "wohin",
+    "cat": "nomen"
+  },
+  {
+    "it": "da dove",
+    "de": "woher",
+    "cat": "nomen"
+  },
+  {
+    "it": "quanto",
+    "de": "wie viel",
+    "cat": "nomen"
+  },
+  {
+    "it": "quanti",
+    "de": "wie viele",
+    "cat": "nomen"
+  },
+  {
+    "it": "e",
+    "de": "und",
+    "cat": "adjektive"
+  },
+  {
+    "it": "o",
+    "de": "oder",
+    "cat": "adjektive"
+  },
+  {
+    "it": "ma",
+    "de": "aber",
+    "cat": "adjektive"
+  },
+  {
+    "it": "se",
+    "de": "wenn",
+    "cat": "adjektive"
+  },
+  {
+    "it": "quando",
+    "de": "wenn",
+    "cat": "adjektive"
+  },
+  {
+    "it": "che",
+    "de": "dass",
+    "cat": "adjektive"
+  },
+  {
+    "it": "sebbene",
+    "de": "obwohl",
+    "cat": "adjektive"
+  },
+  {
+    "it": "affinché",
+    "de": "damit",
+    "cat": "adjektive"
+  },
+  {
+    "it": "prima che",
+    "de": "bevor",
+    "cat": "adjektive"
+  },
+  {
+    "it": "dopo che",
+    "de": "nachdem",
+    "cat": "adjektive"
+  },
+  {
+    "it": "in",
+    "de": "in",
+    "cat": "adjektive"
+  },
+  {
+    "it": "su",
+    "de": "auf",
+    "cat": "adjektive"
+  },
+  {
+    "it": "a",
+    "de": "an",
+    "cat": "adjektive"
+  },
+  {
+    "it": "da",
+    "de": "von",
+    "cat": "adjektive"
+  },
+  {
+    "it": "con",
+    "de": "mit",
+    "cat": "adjektive"
+  },
+  {
+    "it": "senza",
+    "de": "ohne",
+    "cat": "adjektive"
+  },
+  {
+    "it": "per",
+    "de": "für",
+    "cat": "adjektive"
+  },
+  {
+    "it": "contro",
+    "de": "gegen",
+    "cat": "adjektive"
+  },
+  {
+    "it": "attraverso",
+    "de": "durch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "dopo",
+    "de": "nach",
+    "cat": "adjektive"
+  },
+  {
+    "it": "a",
+    "de": "zu",
+    "cat": "adjektive"
+  },
+  {
+    "it": "accanto a",
+    "de": "neben",
+    "cat": "adjektive"
+  },
+  {
+    "it": "fino a",
+    "de": "bis",
+    "cat": "adjektive"
+  },
+  {
+    "it": "tranne",
+    "de": "ausser",
+    "cat": "adjektive"
+  },
+  {
+    "it": "a causa di",
+    "de": "wegen",
+    "cat": "adjektive"
+  },
+  {
+    "it": "l'aspirapolvere",
+    "de": "der Staubsauger",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ferro da stiro",
+    "de": "das Bügeleisen",
+    "cat": "nomen"
+  },
+  {
+    "it": "il piatto",
+    "de": "der Teller",
+    "cat": "nomen"
+  },
+  {
+    "it": "la tazza",
+    "de": "die Tasse",
+    "cat": "nomen"
+  },
+  {
+    "it": "il bicchiere",
+    "de": "das Glas",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pentola",
+    "de": "der Topf",
+    "cat": "nomen"
+  },
+  {
+    "it": "la padella",
+    "de": "die Pfanne",
+    "cat": "nomen"
+  },
+  {
+    "it": "il coltello",
+    "de": "das Messer",
+    "cat": "nomen"
+  },
+  {
+    "it": "la forchetta",
+    "de": "die Gabel",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cucchiaio",
+    "de": "der Löffel",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'asciugamano",
+    "de": "das Handtuch",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sapone",
+    "de": "die Seife",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo shampoo",
+    "de": "das Shampoo",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo spazzolino",
+    "de": "die Zahnbürste",
+    "cat": "nomen"
+  },
+  {
+    "it": "il dentifricio",
+    "de": "die Zahnpasta",
+    "cat": "nomen"
+  },
+  {
+    "it": "il profumo",
+    "de": "das Parfüm",
+    "cat": "nomen"
+  },
+  {
+    "it": "la crema",
+    "de": "die Creme",
+    "cat": "nomen"
+  },
+  {
+    "it": "il dipinto",
+    "de": "das Gemälde",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scultura",
+    "de": "die Skulptur",
+    "cat": "nomen"
+  },
+  {
+    "it": "il film",
+    "de": "der Film",
+    "cat": "nomen"
+  },
+  {
+    "it": "il romanzo",
+    "de": "der Roman",
+    "cat": "nomen"
+  },
+  {
+    "it": "la poesia",
+    "de": "das Gedicht",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pittore",
+    "de": "der Maler",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'opera lirica",
+    "de": "die Oper",
+    "cat": "nomen"
+  },
+  {
+    "it": "il balletto",
+    "de": "das Ballett",
+    "cat": "nomen"
+  },
+  {
+    "it": "la danza",
+    "de": "der Tanz",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giornale",
+    "de": "die Zeitung",
+    "cat": "nomen"
+  },
+  {
+    "it": "la rivista",
+    "de": "die Zeitschrift",
+    "cat": "nomen"
+  },
+  {
+    "it": "le notizie",
+    "de": "die Nachrichten",
+    "cat": "nomen"
+  },
+  {
+    "it": "la pubblicità",
+    "de": "die Werbung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il podcast",
+    "de": "der Podcast",
+    "cat": "nomen"
+  },
+  {
+    "it": "il blog",
+    "de": "das Blog",
+    "cat": "nomen"
+  },
+  {
+    "it": "i social media",
+    "de": "soziale Medien",
+    "cat": "nomen"
+  },
+  {
+    "it": "la palma",
+    "de": "die Palme",
+    "cat": "nomen"
+  },
+  {
+    "it": "la quercia",
+    "de": "die Eiche",
+    "cat": "nomen"
+  },
+  {
+    "it": "la betulla",
+    "de": "die Birke",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'abete",
+    "de": "die Tanne",
+    "cat": "nomen"
+  },
+  {
+    "it": "la rosa",
+    "de": "die Rose",
+    "cat": "nomen"
+  },
+  {
+    "it": "il tulipano",
+    "de": "die Tulpe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il girasole",
+    "de": "die Sonnenblume",
+    "cat": "nomen"
+  },
+  {
+    "it": "il cactus",
+    "de": "der Kaktus",
+    "cat": "nomen"
+  },
+  {
+    "it": "il sopracciglio",
+    "de": "die Augenbraue",
+    "cat": "nomen"
+  },
+  {
+    "it": "il ciglio",
+    "de": "die Wimper",
+    "cat": "nomen"
+  },
+  {
+    "it": "la costola",
+    "de": "die Rippe",
+    "cat": "nomen"
+  },
+  {
+    "it": "il rene",
+    "de": "die Niere",
+    "cat": "nomen"
+  },
+  {
+    "it": "il presidente",
+    "de": "der Präsident",
+    "cat": "nomen"
+  },
+  {
+    "it": "il re",
+    "de": "der König",
+    "cat": "nomen"
+  },
+  {
+    "it": "la regina",
+    "de": "die Königin",
+    "cat": "nomen"
+  },
+  {
+    "it": "il giudice",
+    "de": "der Richter",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pilota",
+    "de": "der Pilot",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'astronauta",
+    "de": "der Astronaut",
+    "cat": "nomen"
+  },
+  {
+    "it": "lo scienziato",
+    "de": "der Wissenschaftler",
+    "cat": "nomen"
+  },
+  {
+    "it": "il soldato",
+    "de": "der Soldat",
+    "cat": "nomen"
+  },
+  {
+    "it": "saltare",
+    "de": "springen",
+    "cat": "verben"
+  },
+  {
+    "it": "lanciare",
+    "de": "werfen",
+    "cat": "verben"
+  },
+  {
+    "it": "tirare",
+    "de": "ziehen",
+    "cat": "verben"
+  },
+  {
+    "it": "sognare",
+    "de": "träumen",
+    "cat": "verben"
+  },
+  {
+    "it": "festeggiare",
+    "de": "feiern",
+    "cat": "verben"
+  },
+  {
+    "it": "congratularsi",
+    "de": "gratulieren",
+    "cat": "verben"
+  },
+  {
+    "it": "invitare",
+    "de": "einladen",
+    "cat": "verben"
+  },
+  {
+    "it": "consigliare",
+    "de": "empfehlen",
+    "cat": "verben"
+  },
+  {
+    "it": "permettere",
+    "de": "erlauben",
+    "cat": "verben"
+  },
+  {
+    "it": "vietare",
+    "de": "verbieten",
+    "cat": "verben"
+  },
+  {
+    "it": "notare",
+    "de": "bemerken",
+    "cat": "verben"
+  },
+  {
+    "it": "tranquillo",
+    "de": "ruhig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "vivace",
+    "de": "lebhaft",
+    "cat": "adjektive"
+  },
+  {
+    "it": "affidabile",
+    "de": "zuverlässig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "creativo",
+    "de": "kreativ",
+    "cat": "adjektive"
+  },
+  {
+    "it": "pratico",
+    "de": "praktisch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "ufficiale",
+    "de": "offiziell",
+    "cat": "adjektive"
+  },
+  {
+    "it": "raro",
+    "de": "selten",
+    "cat": "adjektive"
+  },
+  {
+    "it": "frequente",
+    "de": "häufig",
+    "cat": "adjektive"
+  },
+  {
+    "it": "tipico",
+    "de": "typisch",
+    "cat": "adjektive"
+  },
+  {
+    "it": "particolare",
+    "de": "besonders",
+    "cat": "adjektive"
+  },
+  {
+    "it": "accogliente",
+    "de": "gemütlich",
+    "cat": "adjektive"
+  },
+  {
+    "it": "rilassato",
+    "de": "entspannt",
+    "cat": "adjektive"
+  },
+  {
+    "it": "la scienza",
+    "de": "die Wissenschaft",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'esperimento",
+    "de": "das Experiment",
+    "cat": "nomen"
+  },
+  {
+    "it": "la scoperta",
+    "de": "die Entdeckung",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'invenzione",
+    "de": "die Erfindung",
+    "cat": "nomen"
+  },
+  {
+    "it": "il laboratorio",
+    "de": "das Labor",
+    "cat": "nomen"
+  },
+  {
+    "it": "la teoria",
+    "de": "die Theorie",
+    "cat": "nomen"
+  },
+  {
+    "it": "il pianeta",
+    "de": "der Planet",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'universo",
+    "de": "das Universum",
+    "cat": "nomen"
+  },
+  {
+    "it": "la galassia",
+    "de": "die Galaxie",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'atomo",
+    "de": "das Atom",
+    "cat": "nomen"
+  },
+  {
+    "it": "l'energia",
+    "de": "die Energie",
+    "cat": "nomen"
+  },
+  {
+    "it": "la forza",
+    "de": "die Kraft",
+    "cat": "nomen"
+  },
+  {
+    "it": "la temperatura",
+    "de": "die Temperatur",
+    "cat": "nomen"
+  },
+  {
+    "it": "il peso",
+    "de": "das Gewicht",
+    "cat": "nomen"
+  },
+  {
+    "it": "la lunghezza",
+    "de": "die Länge",
+    "cat": "nomen"
+  },
+  {
+    "it": "la larghezza",
+    "de": "die Breite",
+    "cat": "nomen"
+  }
+]
